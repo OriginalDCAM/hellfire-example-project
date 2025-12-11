@@ -1,0 +1,1496 @@
+{
+    "assets": [
+        {
+            "last_modified": 134098722624445620,
+            "name": "material_041_54",
+            "path": "assets\\imported\\scene\\material_041_54.hfmat",
+            "type": 3,
+            "uuid": 15670970184985699701
+        },
+        {
+            "last_modified": 134098751057136880,
+            "name": "minecraft_castle",
+            "path": "assets\\Castle\\minecraft_castle.glb",
+            "type": 0,
+            "uuid": 7520223674901418529
+        },
+        {
+            "last_modified": 134098760247884379,
+            "name": "minecraft_castle_mesh_0",
+            "path": "assets\\imported\\minecraft_castle\\minecraft_castle_mesh_0.hfmesh",
+            "type": 1,
+            "uuid": 5000817653991374432
+        },
+        {
+            "last_modified": 134098722623583072,
+            "name": "material_041_55",
+            "path": "assets\\imported\\scene\\material_041_55.hfmat",
+            "type": 3,
+            "uuid": 16929583856397032774
+        },
+        {
+            "last_modified": 134098750620993530,
+            "name": "884ea104ea874de19dc097e602877a3b",
+            "path": "assets\\imported\\884ea104ea874de19dc097e602877a3b\\884ea104ea874de19dc097e602877a3b.hfmodel",
+            "type": 0,
+            "uuid": 11957773056693980043
+        },
+        {
+            "last_modified": 134098722623783820,
+            "name": "scene_mesh_62",
+            "path": "assets\\imported\\scene\\scene_mesh_62.hfmesh",
+            "type": 1,
+            "uuid": 14283742438637376170
+        },
+        {
+            "last_modified": 134098750620202009,
+            "name": "884ea104ea874de19dc097e602877a3b_mesh_0",
+            "path": "assets\\imported\\884ea104ea874de19dc097e602877a3b\\884ea104ea874de19dc097e602877a3b_mesh_0.hfmesh",
+            "type": 1,
+            "uuid": 2456948022672313610
+        },
+        {
+            "last_modified": 134098722622803165,
+            "name": "scene_mesh_32",
+            "path": "assets\\imported\\scene\\scene_mesh_32.hfmesh",
+            "type": 1,
+            "uuid": 9872588815125004153
+        },
+        {
+            "last_modified": 134098722623723641,
+            "name": "material_041_38",
+            "path": "assets\\imported\\scene\\material_041_38.hfmat",
+            "type": 3,
+            "uuid": 14839381223128988379
+        },
+        {
+            "last_modified": 134098760248086342,
+            "name": "defaultMat",
+            "path": "assets\\imported\\minecraft_castle\\defaultMat.hfmat",
+            "type": 3,
+            "uuid": 10790153994161166903
+        },
+        {
+            "last_modified": 134098750620397182,
+            "name": "defaultMat",
+            "path": "assets\\imported\\884ea104ea874de19dc097e602877a3b\\defaultMat.hfmat",
+            "type": 3,
+            "uuid": 5460231122821838966
+        },
+        {
+            "last_modified": 134098760248707799,
+            "name": "minecraft_castle",
+            "path": "assets\\imported\\minecraft_castle\\minecraft_castle.hfmodel",
+            "type": 0,
+            "uuid": 11342974245242824885
+        },
+        {
+            "last_modified": 134098722621922802,
+            "name": "material_041_34",
+            "path": "assets\\imported\\scene\\material_041_34.hfmat",
+            "type": 3,
+            "uuid": 16243857143716990903
+        },
+        {
+            "last_modified": 134098760248076330,
+            "name": "minecraft_castle_texture_0",
+            "path": "assets\\imported\\minecraft_castle\\minecraft_castle_texture_0.jpg",
+            "type": 2,
+            "uuid": 7359081467812591590
+        },
+        {
+            "last_modified": 134098722622641310,
+            "name": "material_041_16",
+            "path": "assets\\imported\\scene\\material_041_16.hfmat",
+            "type": 3,
+            "uuid": 3648675766634349471
+        },
+        {
+            "last_modified": 134098722620363169,
+            "name": "material_041",
+            "path": "assets\\imported\\scene\\material_041.hfmat",
+            "type": 3,
+            "uuid": 5744766749374568595
+        },
+        {
+            "last_modified": 134098722624044922,
+            "name": "material_041_57",
+            "path": "assets\\imported\\scene\\material_041_57.hfmat",
+            "type": 3,
+            "uuid": 8683273598570970148
+        },
+        {
+            "last_modified": 134098722620403507,
+            "name": "material_041_0",
+            "path": "assets\\imported\\scene\\material_041_0.hfmat",
+            "type": 3,
+            "uuid": 1844617152419551100
+        },
+        {
+            "last_modified": 134098722622782936,
+            "name": "material_041_1",
+            "path": "assets\\imported\\scene\\material_041_1.hfmat",
+            "type": 3,
+            "uuid": 6535051116285784731
+        },
+        {
+            "last_modified": 134098722624881573,
+            "name": "material_041_3",
+            "path": "assets\\imported\\scene\\material_041_3.hfmat",
+            "type": 3,
+            "uuid": 13802456096444691341
+        },
+        {
+            "last_modified": 134098722624846477,
+            "name": "Merged_materials",
+            "path": "assets\\imported\\scene\\Merged_materials.hfmat",
+            "type": 3,
+            "uuid": 9432301535747814743
+        },
+        {
+            "last_modified": 134098722624846477,
+            "name": "material_041_5",
+            "path": "assets\\imported\\scene\\material_041_5.hfmat",
+            "type": 3,
+            "uuid": 2368657206385193039
+        },
+        {
+            "last_modified": 134098722624605455,
+            "name": "material_041_10",
+            "path": "assets\\imported\\scene\\material_041_10.hfmat",
+            "type": 3,
+            "uuid": 5841266580944432541
+        },
+        {
+            "last_modified": 134098722622888296,
+            "name": "material_041_47",
+            "path": "assets\\imported\\scene\\material_041_47.hfmat",
+            "type": 3,
+            "uuid": 14930948561607510497
+        },
+        {
+            "last_modified": 134098722623402368,
+            "name": "material_041_15",
+            "path": "assets\\imported\\scene\\material_041_15.hfmat",
+            "type": 3,
+            "uuid": 8465847199004325746
+        },
+        {
+            "last_modified": 134098722622290311,
+            "name": "material_041_53",
+            "path": "assets\\imported\\scene\\material_041_53.hfmat",
+            "type": 3,
+            "uuid": 16035892462703691592
+        },
+        {
+            "last_modified": 134098722623206722,
+            "name": "material_041_11",
+            "path": "assets\\imported\\scene\\material_041_11.hfmat",
+            "type": 3,
+            "uuid": 7099826144158342446
+        },
+        {
+            "last_modified": 134098722623043905,
+            "name": "scene_mesh_39",
+            "path": "assets\\imported\\scene\\scene_mesh_39.hfmesh",
+            "type": 1,
+            "uuid": 10893094584643709842
+        },
+        {
+            "last_modified": 134098722623688543,
+            "name": "material_041_33",
+            "path": "assets\\imported\\scene\\material_041_33.hfmat",
+            "type": 3,
+            "uuid": 13460637206974080550
+        },
+        {
+            "last_modified": 134098722622043383,
+            "name": "material_041_42",
+            "path": "assets\\imported\\scene\\material_041_42.hfmat",
+            "type": 3,
+            "uuid": 166430375459329966
+        },
+        {
+            "last_modified": 134098722622722821,
+            "name": "material_041_12",
+            "path": "assets\\imported\\scene\\material_041_12.hfmat",
+            "type": 3,
+            "uuid": 13670281449512614571
+        },
+        {
+            "last_modified": 134098722624529728,
+            "name": "material_041_13",
+            "path": "assets\\imported\\scene\\material_041_13.hfmat",
+            "type": 3,
+            "uuid": 15355237401990420428
+        },
+        {
+            "last_modified": 134098722624285037,
+            "name": "material_041_14",
+            "path": "assets\\imported\\scene\\material_041_14.hfmat",
+            "type": 3,
+            "uuid": 3417600256596971361
+        },
+        {
+            "last_modified": 134098763946068997,
+            "name": "World",
+            "path": "assets\\World.hfscene",
+            "type": 4,
+            "uuid": 722014028725046960
+        },
+        {
+            "last_modified": 134098722624485623,
+            "name": "material_041_28",
+            "path": "assets\\imported\\scene\\material_041_28.hfmat",
+            "type": 3,
+            "uuid": 14311025171991898766
+        },
+        {
+            "last_modified": 134098722622581022,
+            "name": "material_041_17",
+            "path": "assets\\imported\\scene\\material_041_17.hfmat",
+            "type": 3,
+            "uuid": 11682869491531836752
+        },
+        {
+            "last_modified": 134098722621722098,
+            "name": "material_041_23",
+            "path": "assets\\imported\\scene\\material_041_23.hfmat",
+            "type": 3,
+            "uuid": 218905360604006835
+        },
+        {
+            "last_modified": 134098722622003267,
+            "name": "material_041_18",
+            "path": "assets\\imported\\scene\\material_041_18.hfmat",
+            "type": 3,
+            "uuid": 16824386004271819493
+        },
+        {
+            "last_modified": 134098722623382105,
+            "name": "material_041_50",
+            "path": "assets\\imported\\scene\\material_041_50.hfmat",
+            "type": 3,
+            "uuid": 5649100619316663961
+        },
+        {
+            "last_modified": 134098722623924398,
+            "name": "material_041_19",
+            "path": "assets\\imported\\scene\\material_041_19.hfmat",
+            "type": 3,
+            "uuid": 18040393826208669366
+        },
+        {
+            "last_modified": 134098722623206722,
+            "name": "scene_mesh_45",
+            "path": "assets\\imported\\scene\\scene_mesh_45.hfmesh",
+            "type": 1,
+            "uuid": 943287262637767667
+        },
+        {
+            "last_modified": 134098722622983486,
+            "name": "scene_mesh_38",
+            "path": "assets\\imported\\scene\\scene_mesh_38.hfmesh",
+            "type": 1,
+            "uuid": 12284305465369717335
+        },
+        {
+            "last_modified": 134098722621887702,
+            "name": "material_041_48",
+            "path": "assets\\imported\\scene\\material_041_48.hfmat",
+            "type": 3,
+            "uuid": 15306814662788599764
+        },
+        {
+            "last_modified": 134098722623126430,
+            "name": "material_041_2",
+            "path": "assets\\imported\\scene\\material_041_2.hfmat",
+            "type": 3,
+            "uuid": 15061069767856024414
+        },
+        {
+            "last_modified": 134098722623723641,
+            "name": "scene_mesh_59",
+            "path": "assets\\imported\\scene\\scene_mesh_59.hfmesh",
+            "type": 1,
+            "uuid": 965543859508461980
+        },
+        {
+            "last_modified": 134098722624209825,
+            "name": "material_041_20",
+            "path": "assets\\imported\\scene\\material_041_20.hfmat",
+            "type": 3,
+            "uuid": 1530870839503645590
+        },
+        {
+            "last_modified": 134098722623322011,
+            "name": "material_041_46",
+            "path": "assets\\imported\\scene\\material_041_46.hfmat",
+            "type": 3,
+            "uuid": 1532451430305313266
+        },
+        {
+            "last_modified": 134098722625288475,
+            "name": "scene",
+            "path": "assets\\imported\\scene\\scene.hfmodel",
+            "type": 0,
+            "uuid": 15698371697713949885
+        },
+        {
+            "last_modified": 134098722623206722,
+            "name": "material_041_21",
+            "path": "assets\\imported\\scene\\material_041_21.hfmat",
+            "type": 3,
+            "uuid": 176105020458755269
+        },
+        {
+            "last_modified": 134098722621962913,
+            "name": "material_041_39",
+            "path": "assets\\imported\\scene\\material_041_39.hfmat",
+            "type": 3,
+            "uuid": 16377932609816272572
+        },
+        {
+            "last_modified": 134098722622923362,
+            "name": "material_041_41",
+            "path": "assets\\imported\\scene\\material_041_41.hfmat",
+            "type": 3,
+            "uuid": 6736885680813602091
+        },
+        {
+            "last_modified": 134098722622043383,
+            "name": "material_041_22",
+            "path": "assets\\imported\\scene\\material_041_22.hfmat",
+            "type": 3,
+            "uuid": 4775961510034921140
+        },
+        {
+            "last_modified": 134098722621641873,
+            "name": "scene_mesh_5",
+            "path": "assets\\imported\\scene\\scene_mesh_5.hfmesh",
+            "type": 1,
+            "uuid": 1686018281490911049
+        },
+        {
+            "last_modified": 134098722624585153,
+            "name": "material_041_24",
+            "path": "assets\\imported\\scene\\material_041_24.hfmat",
+            "type": 3,
+            "uuid": 18335861062690984826
+        },
+        {
+            "last_modified": 134098722621325169,
+            "name": "material_041_31",
+            "path": "assets\\imported\\scene\\material_041_31.hfmat",
+            "type": 3,
+            "uuid": 4159161144237206660
+        },
+        {
+            "last_modified": 134098722624129343,
+            "name": "scene_mesh_75",
+            "path": "assets\\imported\\scene\\scene_mesh_75.hfmesh",
+            "type": 1,
+            "uuid": 9283987013795200314
+        },
+        {
+            "last_modified": 134098722623924398,
+            "name": "scene_mesh_67",
+            "path": "assets\\imported\\scene\\scene_mesh_67.hfmesh",
+            "type": 1,
+            "uuid": 5727902313785936955
+        },
+        {
+            "last_modified": 134098722622083385,
+            "name": "material_041_25",
+            "path": "assets\\imported\\scene\\material_041_25.hfmat",
+            "type": 3,
+            "uuid": 14272951091602143337
+        },
+        {
+            "last_modified": 134098722622083385,
+            "name": "material_041_26",
+            "path": "assets\\imported\\scene\\material_041_26.hfmat",
+            "type": 3,
+            "uuid": 3288011969847688728
+        },
+        {
+            "last_modified": 134098722624129343,
+            "name": "scene_mesh_74",
+            "path": "assets\\imported\\scene\\scene_mesh_74.hfmesh",
+            "type": 1,
+            "uuid": 4091739669925761727
+        },
+        {
+            "last_modified": 134098722623487566,
+            "name": "material_041_27",
+            "path": "assets\\imported\\scene\\material_041_27.hfmat",
+            "type": 3,
+            "uuid": 6944202158694199015
+        },
+        {
+            "last_modified": 134098722623522664,
+            "name": "material_041_29",
+            "path": "assets\\imported\\scene\\material_041_29.hfmat",
+            "type": 3,
+            "uuid": 6578597028437758717
+        },
+        {
+            "last_modified": 134098722624725774,
+            "name": "scene_mesh_97",
+            "path": "assets\\imported\\scene\\scene_mesh_97.hfmesh",
+            "type": 1,
+            "uuid": 6349533371199004738
+        },
+        {
+            "last_modified": 134098722623688543,
+            "name": "scene_mesh_58",
+            "path": "assets\\imported\\scene\\scene_mesh_58.hfmesh",
+            "type": 1,
+            "uuid": 9546639476505893593
+        },
+        {
+            "last_modified": 134098722622205178,
+            "name": "material_041_45",
+            "path": "assets\\imported\\scene\\material_041_45.hfmat",
+            "type": 3,
+            "uuid": 15162024071644888607
+        },
+        {
+            "last_modified": 134098722624690678,
+            "name": "material_041_30",
+            "path": "assets\\imported\\scene\\material_041_30.hfmat",
+            "type": 3,
+            "uuid": 6204131287232659139
+        },
+        {
+            "last_modified": 134098722624405514,
+            "name": "material_041_32",
+            "path": "assets\\imported\\scene\\material_041_32.hfmat",
+            "type": 3,
+            "uuid": 18010052900402447061
+        },
+        {
+            "last_modified": 134098722623683444,
+            "name": "scene_mesh_57",
+            "path": "assets\\imported\\scene\\scene_mesh_57.hfmesh",
+            "type": 1,
+            "uuid": 5738854312392394638
+        },
+        {
+            "last_modified": 134098722624184435,
+            "name": "material_041_35",
+            "path": "assets\\imported\\scene\\material_041_35.hfmat",
+            "type": 3,
+            "uuid": 12327747946009554984
+        },
+        {
+            "last_modified": 134098722623442477,
+            "name": "material_041_36",
+            "path": "assets\\imported\\scene\\material_041_36.hfmat",
+            "type": 3,
+            "uuid": 1753794096641187577
+        },
+        {
+            "last_modified": 134098722624405514,
+            "name": "material_041_37",
+            "path": "assets\\imported\\scene\\material_041_37.hfmat",
+            "type": 3,
+            "uuid": 5264179882529116106
+        },
+        {
+            "last_modified": 134098722623487566,
+            "name": "scene_mesh_51",
+            "path": "assets\\imported\\scene\\scene_mesh_51.hfmesh",
+            "type": 1,
+            "uuid": 4840784931039342404
+        },
+        {
+            "last_modified": 134098722624325158,
+            "name": "material_041_4",
+            "path": "assets\\imported\\scene\\material_041_4.hfmat",
+            "type": 3,
+            "uuid": 10914931345240391744
+        },
+        {
+            "last_modified": 134098722624084922,
+            "name": "material_041_49",
+            "path": "assets\\imported\\scene\\material_041_49.hfmat",
+            "type": 3,
+            "uuid": 10750039988334507475
+        },
+        {
+            "last_modified": 134098722624846477,
+            "name": "scene_mesh_100",
+            "path": "assets\\imported\\scene\\scene_mesh_100.hfmesh",
+            "type": 1,
+            "uuid": 8304483009323749461
+        },
+        {
+            "last_modified": 134098722624004806,
+            "name": "material_041_40",
+            "path": "assets\\imported\\scene\\material_041_40.hfmat",
+            "type": 3,
+            "uuid": 8421841633291407948
+        },
+        {
+            "last_modified": 134098722623688543,
+            "name": "material_041_43",
+            "path": "assets\\imported\\scene\\material_041_43.hfmat",
+            "type": 3,
+            "uuid": 17354614885954971677
+        },
+        {
+            "last_modified": 134098722623603347,
+            "name": "material_041_56",
+            "path": "assets\\imported\\scene\\material_041_56.hfmat",
+            "type": 3,
+            "uuid": 15901781812232307171
+        },
+        {
+            "last_modified": 134098722622184949,
+            "name": "material_041_44",
+            "path": "assets\\imported\\scene\\material_041_44.hfmat",
+            "type": 3,
+            "uuid": 4749473722832824272
+        },
+        {
+            "last_modified": 134098722624325158,
+            "name": "material_041_51",
+            "path": "assets\\imported\\scene\\material_041_51.hfmat",
+            "type": 3,
+            "uuid": 3554184573747477866
+        },
+        {
+            "last_modified": 134098722624605455,
+            "name": "scene_mesh_94",
+            "path": "assets\\imported\\scene\\scene_mesh_94.hfmesh",
+            "type": 1,
+            "uuid": 8444867715962771633
+        },
+        {
+            "last_modified": 134098722624529728,
+            "name": "material_041_52",
+            "path": "assets\\imported\\scene\\material_041_52.hfmat",
+            "type": 3,
+            "uuid": 13723297784834431703
+        },
+        {
+            "last_modified": 134098722624445620,
+            "name": "scene_mesh_86",
+            "path": "assets\\imported\\scene\\scene_mesh_86.hfmesh",
+            "type": 1,
+            "uuid": 4844850774479472580
+        },
+        {
+            "last_modified": 134098722623924398,
+            "name": "material_041_58",
+            "path": "assets\\imported\\scene\\material_041_58.hfmat",
+            "type": 3,
+            "uuid": 1636227786772580593
+        },
+        {
+            "last_modified": 134098722624385243,
+            "name": "material_041_59",
+            "path": "assets\\imported\\scene\\material_041_59.hfmat",
+            "type": 3,
+            "uuid": 10241344923446225218
+        },
+        {
+            "last_modified": 134098722622520890,
+            "name": "material_041_6",
+            "path": "assets\\imported\\scene\\material_041_6.hfmat",
+            "type": 3,
+            "uuid": 16104248190788700002
+        },
+        {
+            "last_modified": 134098722624249939,
+            "name": "material_041_60",
+            "path": "assets\\imported\\scene\\material_041_60.hfmat",
+            "type": 3,
+            "uuid": 11474985185091673618
+        },
+        {
+            "last_modified": 134098722623402368,
+            "name": "material_041_61",
+            "path": "assets\\imported\\scene\\material_041_61.hfmat",
+            "type": 3,
+            "uuid": 6182136487874428929
+        },
+        {
+            "last_modified": 134098722623583072,
+            "name": "scene_mesh_54",
+            "path": "assets\\imported\\scene\\scene_mesh_54.hfmesh",
+            "type": 1,
+            "uuid": 15107392286528442157
+        },
+        {
+            "last_modified": 134098722624084922,
+            "name": "material_041_62",
+            "path": "assets\\imported\\scene\\material_041_62.hfmat",
+            "type": 3,
+            "uuid": 3183921773674754416
+        },
+        {
+            "last_modified": 134098722624129343,
+            "name": "material_041_63",
+            "path": "assets\\imported\\scene\\material_041_63.hfmat",
+            "type": 3,
+            "uuid": 12822941356228141247
+        },
+        {
+            "last_modified": 134098722622803165,
+            "name": "material_041_64",
+            "path": "assets\\imported\\scene\\material_041_64.hfmat",
+            "type": 3,
+            "uuid": 9864362375435800014
+        },
+        {
+            "last_modified": 134098722623583072,
+            "name": "material_041_65",
+            "path": "assets\\imported\\scene\\material_041_65.hfmat",
+            "type": 3,
+            "uuid": 14589172297285700157
+        },
+        {
+            "last_modified": 134098722623889299,
+            "name": "material_041_66",
+            "path": "assets\\imported\\scene\\material_041_66.hfmat",
+            "type": 3,
+            "uuid": 5656680519598958444
+        },
+        {
+            "last_modified": 134098722623889299,
+            "name": "material_041_67",
+            "path": "assets\\imported\\scene\\material_041_67.hfmat",
+            "type": 3,
+            "uuid": 10632192203489078475
+        },
+        {
+            "last_modified": 134098722623844187,
+            "name": "material_041_68",
+            "path": "assets\\imported\\scene\\material_041_68.hfmat",
+            "type": 3,
+            "uuid": 8038731729914237114
+        },
+        {
+            "last_modified": 134098722621887702,
+            "name": "scene_mesh_8",
+            "path": "assets\\imported\\scene\\scene_mesh_8.hfmesh",
+            "type": 1,
+            "uuid": 15689050741432746624
+        },
+        {
+            "last_modified": 134098722623783820,
+            "name": "material_041_69",
+            "path": "assets\\imported\\scene\\material_041_69.hfmat",
+            "type": 3,
+            "uuid": 16054710695645918377
+        },
+        {
+            "last_modified": 134098722624169353,
+            "name": "scene_mesh_76",
+            "path": "assets\\imported\\scene\\scene_mesh_76.hfmesh",
+            "type": 1,
+            "uuid": 8103239154622368969
+        },
+        {
+            "last_modified": 134098722624806370,
+            "name": "material_041_7",
+            "path": "assets\\imported\\scene\\material_041_7.hfmat",
+            "type": 3,
+            "uuid": 2080709753662458513
+        },
+        {
+            "last_modified": 134098722623763744,
+            "name": "material_041_70",
+            "path": "assets\\imported\\scene\\material_041_70.hfmat",
+            "type": 3,
+            "uuid": 12455028392248993743
+        },
+        {
+            "last_modified": 134098722622641310,
+            "name": "material_041_71",
+            "path": "assets\\imported\\scene\\material_041_71.hfmat",
+            "type": 3,
+            "uuid": 2554558457394640832
+        },
+        {
+            "last_modified": 134098722623603347,
+            "name": "scene_mesh_56",
+            "path": "assets\\imported\\scene\\scene_mesh_56.hfmesh",
+            "type": 1,
+            "uuid": 2169987141254232707
+        },
+        {
+            "last_modified": 134098722623043905,
+            "name": "material_041_72",
+            "path": "assets\\imported\\scene\\material_041_72.hfmat",
+            "type": 3,
+            "uuid": 12167080939526259217
+        },
+        {
+            "last_modified": 134098722622385466,
+            "name": "material_041_73",
+            "path": "assets\\imported\\scene\\material_041_73.hfmat",
+            "type": 3,
+            "uuid": 7743875302942949090
+        },
+        {
+            "last_modified": 134098722620383256,
+            "name": "material_041_74",
+            "path": "assets\\imported\\scene\\material_041_74.hfmat",
+            "type": 3,
+            "uuid": 16621422302149585435
+        },
+        {
+            "last_modified": 134098722624084922,
+            "name": "material_041_75",
+            "path": "assets\\imported\\scene\\material_041_75.hfmat",
+            "type": 3,
+            "uuid": 11930988338283351804
+        },
+        {
+            "last_modified": 134098722623603347,
+            "name": "material_041_76",
+            "path": "assets\\imported\\scene\\material_041_76.hfmat",
+            "type": 3,
+            "uuid": 5442083208598940429
+        },
+        {
+            "last_modified": 134098722623924398,
+            "name": "scene_mesh_66",
+            "path": "assets\\imported\\scene\\scene_mesh_66.hfmesh",
+            "type": 1,
+            "uuid": 5401221225747916646
+        },
+        {
+            "last_modified": 134098722623083909,
+            "name": "material_041_77",
+            "path": "assets\\imported\\scene\\material_041_77.hfmat",
+            "type": 3,
+            "uuid": 6700696880010273502
+        },
+        {
+            "last_modified": 134098722624529728,
+            "name": "scene_mesh_91",
+            "path": "assets\\imported\\scene\\scene_mesh_91.hfmesh",
+            "type": 1,
+            "uuid": 9340318900655457504
+        },
+        {
+            "last_modified": 134098722623083909,
+            "name": "material_041_78",
+            "path": "assets\\imported\\scene\\material_041_78.hfmat",
+            "type": 3,
+            "uuid": 5807406863878558711
+        },
+        {
+            "last_modified": 134098722622923362,
+            "name": "material_041_79",
+            "path": "assets\\imported\\scene\\material_041_79.hfmat",
+            "type": 3,
+            "uuid": 8120283016724640616
+        },
+        {
+            "last_modified": 134098722624725774,
+            "name": "material_041_8",
+            "path": "assets\\imported\\scene\\material_041_8.hfmat",
+            "type": 3,
+            "uuid": 14546176865913444932
+        },
+        {
+            "last_modified": 134098722622481514,
+            "name": "material_041_80",
+            "path": "assets\\imported\\scene\\material_041_80.hfmat",
+            "type": 3,
+            "uuid": 17154803507245713688
+        },
+        {
+            "last_modified": 134098722624485623,
+            "name": "material_041_94",
+            "path": "assets\\imported\\scene\\material_041_94.hfmat",
+            "type": 3,
+            "uuid": 15620585634039212537
+        },
+        {
+            "last_modified": 134098722622445724,
+            "name": "material_041_81",
+            "path": "assets\\imported\\scene\\material_041_81.hfmat",
+            "type": 3,
+            "uuid": 2364249622382672359
+        },
+        {
+            "last_modified": 134098722623964511,
+            "name": "material_041_82",
+            "path": "assets\\imported\\scene\\material_041_82.hfmat",
+            "type": 3,
+            "uuid": 13755908526379458170
+        },
+        {
+            "last_modified": 134098722624806370,
+            "name": "material_041_83",
+            "path": "assets\\imported\\scene\\material_041_83.hfmat",
+            "type": 3,
+            "uuid": 9692998555290616681
+        },
+        {
+            "last_modified": 134098722623723641,
+            "name": "material_041_84",
+            "path": "assets\\imported\\scene\\material_041_84.hfmat",
+            "type": 3,
+            "uuid": 196008973723394484
+        },
+        {
+            "last_modified": 134098722622963430,
+            "name": "material_041_85",
+            "path": "assets\\imported\\scene\\material_041_85.hfmat",
+            "type": 3,
+            "uuid": 14085696898002031795
+        },
+        {
+            "last_modified": 134098722622923362,
+            "name": "scene_mesh_36",
+            "path": "assets\\imported\\scene\\scene_mesh_36.hfmesh",
+            "type": 1,
+            "uuid": 11520113730297380325
+        },
+        {
+            "last_modified": 134098722623246840,
+            "name": "material_041_86",
+            "path": "assets\\imported\\scene\\material_041_86.hfmat",
+            "type": 3,
+            "uuid": 15397662376901670550
+        },
+        {
+            "last_modified": 134098722624249939,
+            "name": "material_041_87",
+            "path": "assets\\imported\\scene\\material_041_87.hfmat",
+            "type": 3,
+            "uuid": 14042896557856780229
+        },
+        {
+            "last_modified": 134098722624445620,
+            "name": "material_041_88",
+            "path": "assets\\imported\\scene\\material_041_88.hfmat",
+            "type": 3,
+            "uuid": 2805748804132614192
+        },
+        {
+            "last_modified": 134098722622983486,
+            "name": "material_041_89",
+            "path": "assets\\imported\\scene\\material_041_89.hfmat",
+            "type": 3,
+            "uuid": 13079259680859816063
+        },
+        {
+            "last_modified": 134098722622124825,
+            "name": "material_041_92",
+            "path": "assets\\imported\\scene\\material_041_92.hfmat",
+            "type": 3,
+            "uuid": 1624178750921132483
+        },
+        {
+            "last_modified": 134098722624645568,
+            "name": "material_041_9",
+            "path": "assets\\imported\\scene\\material_041_9.hfmat",
+            "type": 3,
+            "uuid": 4512258072088374659
+        },
+        {
+            "last_modified": 134098722622843237,
+            "name": "material_041_90",
+            "path": "assets\\imported\\scene\\material_041_90.hfmat",
+            "type": 3,
+            "uuid": 13430100364090920405
+        },
+        {
+            "last_modified": 134098722624169353,
+            "name": "material_041_91",
+            "path": "assets\\imported\\scene\\material_041_91.hfmat",
+            "type": 3,
+            "uuid": 8880684670662553894
+        },
+        {
+            "last_modified": 134098722623603347,
+            "name": "scene_mesh_55",
+            "path": "assets\\imported\\scene\\scene_mesh_55.hfmesh",
+            "type": 1,
+            "uuid": 5299395076470479952
+        },
+        {
+            "last_modified": 134098722622520890,
+            "name": "material_041_93",
+            "path": "assets\\imported\\scene\\material_041_93.hfmat",
+            "type": 3,
+            "uuid": 18025952681635231620
+        },
+        {
+            "last_modified": 134098722621365458,
+            "name": "scene_mesh_4",
+            "path": "assets\\imported\\scene\\scene_mesh_4.hfmesh",
+            "type": 1,
+            "uuid": 9391332076153282572
+        },
+        {
+            "last_modified": 134098722622681316,
+            "name": "material_041_95",
+            "path": "assets\\imported\\scene\\material_041_95.hfmat",
+            "type": 3,
+            "uuid": 684227346217589450
+        },
+        {
+            "last_modified": 134098722624605455,
+            "name": "material_041_96",
+            "path": "assets\\imported\\scene\\material_041_96.hfmat",
+            "type": 3,
+            "uuid": 11663904607405464247
+        },
+        {
+            "last_modified": 134098722622124825,
+            "name": "material_041_97",
+            "path": "assets\\imported\\scene\\material_041_97.hfmat",
+            "type": 3,
+            "uuid": 7747795409698028328
+        },
+        {
+            "last_modified": 134098722622184949,
+            "name": "scene_mesh_18",
+            "path": "assets\\imported\\scene\\scene_mesh_18.hfmesh",
+            "type": 1,
+            "uuid": 6708872314734395501
+        },
+        {
+            "last_modified": 134098722620323162,
+            "name": "scene_mesh_0",
+            "path": "assets\\imported\\scene\\scene_mesh_0.hfmesh",
+            "type": 1,
+            "uuid": 11488651331811856536
+        },
+        {
+            "last_modified": 134098722620383256,
+            "name": "scene_mesh_1",
+            "path": "assets\\imported\\scene\\scene_mesh_1.hfmesh",
+            "type": 1,
+            "uuid": 18343501439960018805
+        },
+        {
+            "last_modified": 134098722621962913,
+            "name": "scene_mesh_10",
+            "path": "assets\\imported\\scene\\scene_mesh_10.hfmesh",
+            "type": 1,
+            "uuid": 7020030129090497669
+        },
+        {
+            "last_modified": 134098722624846477,
+            "name": "scene_mesh_101",
+            "path": "assets\\imported\\scene\\scene_mesh_101.hfmesh",
+            "type": 1,
+            "uuid": 14887080857570662392
+        },
+        {
+            "last_modified": 134098722622481514,
+            "name": "scene_mesh_23",
+            "path": "assets\\imported\\scene\\scene_mesh_23.hfmesh",
+            "type": 1,
+            "uuid": 14889666260163614611
+        },
+        {
+            "last_modified": 134098722624209825,
+            "name": "scene_mesh_77",
+            "path": "assets\\imported\\scene\\scene_mesh_77.hfmesh",
+            "type": 1,
+            "uuid": 15808552949284740492
+        },
+        {
+            "last_modified": 134098722624881573,
+            "name": "scene_mesh_102",
+            "path": "assets\\imported\\scene\\scene_mesh_102.hfmesh",
+            "type": 1,
+            "uuid": 4076858834739110379
+        },
+        {
+            "last_modified": 134098722622003267,
+            "name": "scene_mesh_11",
+            "path": "assets\\imported\\scene\\scene_mesh_11.hfmesh",
+            "type": 1,
+            "uuid": 2178208046095718184
+        },
+        {
+            "last_modified": 134098722622003267,
+            "name": "scene_mesh_12",
+            "path": "assets\\imported\\scene\\scene_mesh_12.hfmesh",
+            "type": 1,
+            "uuid": 15329880024959799771
+        },
+        {
+            "last_modified": 134098722622043383,
+            "name": "scene_mesh_13",
+            "path": "assets\\imported\\scene\\scene_mesh_13.hfmesh",
+            "type": 1,
+            "uuid": 14758597182111889158
+        },
+        {
+            "last_modified": 134098722622043383,
+            "name": "scene_mesh_14",
+            "path": "assets\\imported\\scene\\scene_mesh_14.hfmesh",
+            "type": 1,
+            "uuid": 6608696501568571161
+        },
+        {
+            "last_modified": 134098722622888296,
+            "name": "scene_mesh_34",
+            "path": "assets\\imported\\scene\\scene_mesh_34.hfmesh",
+            "type": 1,
+            "uuid": 5723836470345806779
+        },
+        {
+            "last_modified": 134098722622083385,
+            "name": "scene_mesh_15",
+            "path": "assets\\imported\\scene\\scene_mesh_15.hfmesh",
+            "type": 1,
+            "uuid": 4401029594748225756
+        },
+        {
+            "last_modified": 134098722623442477,
+            "name": "scene_mesh_50",
+            "path": "assets\\imported\\scene\\scene_mesh_50.hfmesh",
+            "type": 1,
+            "uuid": 10432796664861850017
+        },
+        {
+            "last_modified": 134098722622083385,
+            "name": "scene_mesh_16",
+            "path": "assets\\imported\\scene\\scene_mesh_16.hfmesh",
+            "type": 1,
+            "uuid": 2696708236291382351
+        },
+        {
+            "last_modified": 134098722622124825,
+            "name": "scene_mesh_17",
+            "path": "assets\\imported\\scene\\scene_mesh_17.hfmesh",
+            "type": 1,
+            "uuid": 5194092846314975050
+        },
+        {
+            "last_modified": 134098722622205178,
+            "name": "scene_mesh_19",
+            "path": "assets\\imported\\scene\\scene_mesh_19.hfmesh",
+            "type": 1,
+            "uuid": 7353513528733230224
+        },
+        {
+            "last_modified": 134098722620403507,
+            "name": "scene_mesh_2",
+            "path": "assets\\imported\\scene\\scene_mesh_2.hfmesh",
+            "type": 1,
+            "uuid": 10320082229973879350
+        },
+        {
+            "last_modified": 134098722622245249,
+            "name": "scene_mesh_20",
+            "path": "assets\\imported\\scene\\scene_mesh_20.hfmesh",
+            "type": 1,
+            "uuid": 9336253057215327328
+        },
+        {
+            "last_modified": 134098722622385466,
+            "name": "scene_mesh_21",
+            "path": "assets\\imported\\scene\\scene_mesh_21.hfmesh",
+            "type": 1,
+            "uuid": 8461417316886202365
+        },
+        {
+            "last_modified": 134098722622405654,
+            "name": "scene_mesh_22",
+            "path": "assets\\imported\\scene\\scene_mesh_22.hfmesh",
+            "type": 1,
+            "uuid": 1805104146399880798
+        },
+        {
+            "last_modified": 134098722622520890,
+            "name": "scene_mesh_24",
+            "path": "assets\\imported\\scene\\scene_mesh_24.hfmesh",
+            "type": 1,
+            "uuid": 9942196095327717268
+        },
+        {
+            "last_modified": 134098722622520890,
+            "name": "scene_mesh_25",
+            "path": "assets\\imported\\scene\\scene_mesh_25.hfmesh",
+            "type": 1,
+            "uuid": 8440801872522641457
+        },
+        {
+            "last_modified": 134098722622581022,
+            "name": "scene_mesh_26",
+            "path": "assets\\imported\\scene\\scene_mesh_26.hfmesh",
+            "type": 1,
+            "uuid": 6345467527758874562
+        },
+        {
+            "last_modified": 134098722622641310,
+            "name": "scene_mesh_27",
+            "path": "assets\\imported\\scene\\scene_mesh_27.hfmesh",
+            "type": 1,
+            "uuid": 4128173145315512007
+        },
+        {
+            "last_modified": 134098722622641310,
+            "name": "scene_mesh_28",
+            "path": "assets\\imported\\scene\\scene_mesh_28.hfmesh",
+            "type": 1,
+            "uuid": 755363461938247928
+        },
+        {
+            "last_modified": 134098722622681316,
+            "name": "scene_mesh_29",
+            "path": "assets\\imported\\scene\\scene_mesh_29.hfmesh",
+            "type": 1,
+            "uuid": 12619509687400886613
+        },
+        {
+            "last_modified": 134098722621288992,
+            "name": "scene_mesh_3",
+            "path": "assets\\imported\\scene\\scene_mesh_3.hfmesh",
+            "type": 1,
+            "uuid": 13141522422649224075
+        },
+        {
+            "last_modified": 134098722622722821,
+            "name": "scene_mesh_30",
+            "path": "assets\\imported\\scene\\scene_mesh_30.hfmesh",
+            "type": 1,
+            "uuid": 5576396372999418543
+        },
+        {
+            "last_modified": 134098722623083909,
+            "name": "scene_mesh_41",
+            "path": "assets\\imported\\scene\\scene_mesh_41.hfmesh",
+            "type": 1,
+            "uuid": 2376914293292589223
+        },
+        {
+            "last_modified": 134098722622762882,
+            "name": "scene_mesh_31",
+            "path": "assets\\imported\\scene\\scene_mesh_31.hfmesh",
+            "type": 1,
+            "uuid": 14279676595197245994
+        },
+        {
+            "last_modified": 134098722622843237,
+            "name": "scene_mesh_33",
+            "path": "assets\\imported\\scene\\scene_mesh_33.hfmesh",
+            "type": 1,
+            "uuid": 1291493198127572540
+        },
+        {
+            "last_modified": 134098722622923362,
+            "name": "scene_mesh_35",
+            "path": "assets\\imported\\scene\\scene_mesh_35.hfmesh",
+            "type": 1,
+            "uuid": 5397155382307786470
+        },
+        {
+            "last_modified": 134098722622963430,
+            "name": "scene_mesh_37",
+            "path": "assets\\imported\\scene\\scene_mesh_37.hfmesh",
+            "type": 1,
+            "uuid": 5058177657780576392
+        },
+        {
+            "last_modified": 134098722623043905,
+            "name": "scene_mesh_40",
+            "path": "assets\\imported\\scene\\scene_mesh_40.hfmesh",
+            "type": 1,
+            "uuid": 3235931131138221346
+        },
+        {
+            "last_modified": 134098722623126430,
+            "name": "scene_mesh_42",
+            "path": "assets\\imported\\scene\\scene_mesh_42.hfmesh",
+            "type": 1,
+            "uuid": 6815425008592660340
+        },
+        {
+            "last_modified": 134098722623181499,
+            "name": "scene_mesh_43",
+            "path": "assets\\imported\\scene\\scene_mesh_43.hfmesh",
+            "type": 1,
+            "uuid": 5331265475901988241
+        },
+        {
+            "last_modified": 134098722623206722,
+            "name": "scene_mesh_44",
+            "path": "assets\\imported\\scene\\scene_mesh_44.hfmesh",
+            "type": 1,
+            "uuid": 17142311823488779198
+        },
+        {
+            "last_modified": 134098722623322011,
+            "name": "scene_mesh_46",
+            "path": "assets\\imported\\scene\\scene_mesh_46.hfmesh",
+            "type": 1,
+            "uuid": 6209481970480270400
+        },
+        {
+            "last_modified": 134098722623382105,
+            "name": "scene_mesh_47",
+            "path": "assets\\imported\\scene\\scene_mesh_47.hfmesh",
+            "type": 1,
+            "uuid": 17302117835981760989
+        },
+        {
+            "last_modified": 134098722623402368,
+            "name": "scene_mesh_48",
+            "path": "assets\\imported\\scene\\scene_mesh_48.hfmesh",
+            "type": 1,
+            "uuid": 7225521243115497850
+        },
+        {
+            "last_modified": 134098722623402368,
+            "name": "scene_mesh_49",
+            "path": "assets\\imported\\scene\\scene_mesh_49.hfmesh",
+            "type": 1,
+            "uuid": 7270218556232844287
+        },
+        {
+            "last_modified": 134098722623522664,
+            "name": "scene_mesh_52",
+            "path": "assets\\imported\\scene\\scene_mesh_52.hfmesh",
+            "type": 1,
+            "uuid": 18192745364842830519
+        },
+        {
+            "last_modified": 134098722623562762,
+            "name": "scene_mesh_53",
+            "path": "assets\\imported\\scene\\scene_mesh_53.hfmesh",
+            "type": 1,
+            "uuid": 5714123290909389042
+        },
+        {
+            "last_modified": 134098722621687014,
+            "name": "scene_mesh_6",
+            "path": "assets\\imported\\scene\\scene_mesh_6.hfmesh",
+            "type": 1,
+            "uuid": 2866766140663742394
+        },
+        {
+            "last_modified": 134098722623723641,
+            "name": "scene_mesh_60",
+            "path": "assets\\imported\\scene\\scene_mesh_60.hfmesh",
+            "type": 1,
+            "uuid": 1295559041567702716
+        },
+        {
+            "last_modified": 134098722623763744,
+            "name": "scene_mesh_61",
+            "path": "assets\\imported\\scene\\scene_mesh_61.hfmesh",
+            "type": 1,
+            "uuid": 9876654658565134329
+        },
+        {
+            "last_modified": 134098722623804071,
+            "name": "scene_mesh_63",
+            "path": "assets\\imported\\scene\\scene_mesh_63.hfmesh",
+            "type": 1,
+            "uuid": 5580462216439548719
+        },
+        {
+            "last_modified": 134098722623884187,
+            "name": "scene_mesh_64",
+            "path": "assets\\imported\\scene\\scene_mesh_64.hfmesh",
+            "type": 1,
+            "uuid": 5062243501220706568
+        },
+        {
+            "last_modified": 134098722624405514,
+            "name": "scene_mesh_85",
+            "path": "assets\\imported\\scene\\scene_mesh_85.hfmesh",
+            "type": 1,
+            "uuid": 18196811208282960695
+        },
+        {
+            "last_modified": 134098722623889299,
+            "name": "scene_mesh_65",
+            "path": "assets\\imported\\scene\\scene_mesh_65.hfmesh",
+            "type": 1,
+            "uuid": 11524179573737510501
+        },
+        {
+            "last_modified": 134098722623964511,
+            "name": "scene_mesh_68",
+            "path": "assets\\imported\\scene\\scene_mesh_68.hfmesh",
+            "type": 1,
+            "uuid": 11521139084896386276
+        },
+        {
+            "last_modified": 134098722624004806,
+            "name": "scene_mesh_69",
+            "path": "assets\\imported\\scene\\scene_mesh_69.hfmesh",
+            "type": 1,
+            "uuid": 15592913749406369345
+        },
+        {
+            "last_modified": 134098722621802541,
+            "name": "scene_mesh_7",
+            "path": "assets\\imported\\scene\\scene_mesh_7.hfmesh",
+            "type": 1,
+            "uuid": 16121262870503855423
+        },
+        {
+            "last_modified": 134098722624004806,
+            "name": "scene_mesh_70",
+            "path": "assets\\imported\\scene\\scene_mesh_70.hfmesh",
+            "type": 1,
+            "uuid": 1111999222071130379
+        },
+        {
+            "last_modified": 134098722624044922,
+            "name": "scene_mesh_71",
+            "path": "assets\\imported\\scene\\scene_mesh_71.hfmesh",
+            "type": 1,
+            "uuid": 16737303103105337270
+        },
+        {
+            "last_modified": 134098722624084922,
+            "name": "scene_mesh_72",
+            "path": "assets\\imported\\scene\\scene_mesh_72.hfmesh",
+            "type": 1,
+            "uuid": 6313978239381925109
+        },
+        {
+            "last_modified": 134098722624084922,
+            "name": "scene_mesh_73",
+            "path": "assets\\imported\\scene\\scene_mesh_73.hfmesh",
+            "type": 1,
+            "uuid": 17905872204943314456
+        },
+        {
+            "last_modified": 134098722624249939,
+            "name": "scene_mesh_78",
+            "path": "assets\\imported\\scene\\scene_mesh_78.hfmesh",
+            "type": 1,
+            "uuid": 9619783498304446643
+        },
+        {
+            "last_modified": 134098722624249939,
+            "name": "scene_mesh_79",
+            "path": "assets\\imported\\scene\\scene_mesh_79.hfmesh",
+            "type": 1,
+            "uuid": 2135119328459121534
+        },
+        {
+            "last_modified": 134098722624285037,
+            "name": "scene_mesh_80",
+            "path": "assets\\imported\\scene\\scene_mesh_80.hfmesh",
+            "type": 1,
+            "uuid": 5742920155832524814
+        },
+        {
+            "last_modified": 134098722624285037,
+            "name": "scene_mesh_81",
+            "path": "assets\\imported\\scene\\scene_mesh_81.hfmesh",
+            "type": 1,
+            "uuid": 2174052984694362883
+        },
+        {
+            "last_modified": 134098722624325158,
+            "name": "scene_mesh_82",
+            "path": "assets\\imported\\scene\\scene_mesh_82.hfmesh",
+            "type": 1,
+            "uuid": 5303460919910610128
+        },
+        {
+            "last_modified": 134098722624385243,
+            "name": "scene_mesh_83",
+            "path": "assets\\imported\\scene\\scene_mesh_83.hfmesh",
+            "type": 1,
+            "uuid": 15111458129968572333
+        },
+        {
+            "last_modified": 134098722624405514,
+            "name": "scene_mesh_84",
+            "path": "assets\\imported\\scene\\scene_mesh_84.hfmesh",
+            "type": 1,
+            "uuid": 5718189134349519218
+        },
+        {
+            "last_modified": 134098722624445620,
+            "name": "scene_mesh_87",
+            "path": "assets\\imported\\scene\\scene_mesh_87.hfmesh",
+            "type": 1,
+            "uuid": 10436862508301980193
+        },
+        {
+            "last_modified": 134098722624485623,
+            "name": "scene_mesh_88",
+            "path": "assets\\imported\\scene\\scene_mesh_88.hfmesh",
+            "type": 1,
+            "uuid": 6479559222735751238
+        },
+        {
+            "last_modified": 134098722624485623,
+            "name": "scene_mesh_89",
+            "path": "assets\\imported\\scene\\scene_mesh_89.hfmesh",
+            "type": 1,
+            "uuid": 12037499605245028635
+        },
+        {
+            "last_modified": 134098722621887702,
+            "name": "scene_mesh_9",
+            "path": "assets\\imported\\scene\\scene_mesh_9.hfmesh",
+            "type": 1,
+            "uuid": 1114930599784252445
+        },
+        {
+            "last_modified": 134098722624529728,
+            "name": "scene_mesh_90",
+            "path": "assets\\imported\\scene\\scene_mesh_90.hfmesh",
+            "type": 1,
+            "uuid": 8465483160326332541
+        },
+        {
+            "last_modified": 134098722624564827,
+            "name": "scene_mesh_92",
+            "path": "assets\\imported\\scene\\scene_mesh_92.hfmesh",
+            "type": 1,
+            "uuid": 14893732103603744787
+        },
+        {
+            "last_modified": 134098722624585153,
+            "name": "scene_mesh_93",
+            "path": "assets\\imported\\scene\\scene_mesh_93.hfmesh",
+            "type": 1,
+            "uuid": 1809169989840010974
+        },
+        {
+            "last_modified": 134098722624645568,
+            "name": "scene_mesh_95",
+            "path": "assets\\imported\\scene\\scene_mesh_95.hfmesh",
+            "type": 1,
+            "uuid": 9946261938767847444
+        },
+        {
+            "last_modified": 134098722624690678,
+            "name": "scene_mesh_96",
+            "path": "assets\\imported\\scene\\scene_mesh_96.hfmesh",
+            "type": 1,
+            "uuid": 4132238988755642183
+        },
+        {
+            "last_modified": 134098722624806370,
+            "name": "scene_mesh_98",
+            "path": "assets\\imported\\scene\\scene_mesh_98.hfmesh",
+            "type": 1,
+            "uuid": 12623575530841016789
+        },
+        {
+            "last_modified": 134098722624806370,
+            "name": "scene_mesh_99",
+            "path": "assets\\imported\\scene\\scene_mesh_99.hfmesh",
+            "type": 1,
+            "uuid": 759429305378378104
+        }
+    ],
+    "version": "1.0"
+}

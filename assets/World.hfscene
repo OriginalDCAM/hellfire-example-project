@@ -1,0 +1,156 @@
+{
+  "name": "World.hfscene",
+  "default_camera": 0,
+  "entities": [
+    {
+      "id": 1,
+      "name": "Sol Light",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation": [
+            -35.0,
+            -28.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "_type": "LightComponent",
+          "color": [
+            0.945147693157196,
+            0.63509601354599,
+            0.2831455171108246
+          ],
+          "intensity": 0.20000000298023224,
+          "light_type": 0,
+          "should_cast_shadows": true
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 2,
+      "name": "Rotating cube",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation": [
+            103.88248443603516,
+            103.88248443603516,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 0
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 0,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 3,
+      "name": "Sphere",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 0
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 0,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 4,
+      "name": "$MergedNode_0",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation": [
+            -90.0,
+            2.5490116968285292e-06,
+            0.0
+          ],
+          "scale": [
+            10.049983978271484,
+            10.049992561340332,
+            10.049978256225586
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 5000817653991374432
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 10790153994161166903,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": []
+    }
+  ]
+}
