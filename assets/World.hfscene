@@ -85,11 +85,11 @@
           "position": [
             0.0,
             0.0,
-            0.0
+            -17.599035263061523
           ],
           "rotation": [
             0.0,
-            0.0,
+            -0.0,
             0.0
           ],
           "scale": [
@@ -116,24 +116,253 @@
     },
     {
       "id": 4,
-      "name": "$MergedNode_0",
+      "name": "Cylinder",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            -6.170744895935059,
+            -0.18155086040496826,
+            0.8731609582901001
+          ],
+          "rotation": [
+            0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 5408336815214538916
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 10803964665571373505,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 5,
+      "name": "Cube",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            -0.7903920412063599,
+            12.372223854064941,
+            -21.14937400817871
+          ],
+          "rotation": [
+            0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            2.6642000675201416,
+            2.6642000675201416,
+            2.6642000675201416
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 6132033153381584298
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 15076267344525704583,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": [
+        {
+          "id": 27,
+          "name": "Cube.017.Cube.019.Cube.018",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                -0.0,
+                0.0
+              ],
+              "scale": [
+                0.9999998807907104,
+                0.9999998807907104,
+                0.9999998807907104
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 6631148529640657119
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 16732280874436761549,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Torus",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            -1.6165812015533447,
+            2.7288882732391357,
+            -3.472914457321167
+          ],
+          "rotation": [
+            37.88644027709961,
+            20.676300048828125,
+            6.234582901000977
+          ],
+          "scale": [
+            0.9999995231628418,
+            1.0000001192092896,
+            0.9999998807907104
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 15184736146948397108
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 14185615942273569681,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 7,
+      "name": "Plane",
       "components": [
         {
           "_type": "TransformComponent",
           "position": [
             0.0,
-            0.0,
+            -3.18798828125,
             0.0
           ],
           "rotation": [
-            -90.0,
-            2.5490116968285292e-06,
+            0.0,
+            -0.0,
             0.0
           ],
           "scale": [
-            10.049983978271484,
-            10.049992561340332,
-            10.049978256225586
+            125.4670181274414,
+            125.4670181274414,
+            125.4670181274414
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 215693743712635248
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 5981206182166823413,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 8,
+      "name": "Torus (1)",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            -2.941140651702881,
+            2.327528953552246,
+            0.0
+          ],
+          "rotation": [
+            0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 15184736146948397108
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 14185615942273569681,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 9,
+      "name": "$MergedNode_0",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            8.909310340881348,
+            -3.2406859397888184,
+            -4.096109867095947
+          ],
+          "rotation": [
+            89.99994659423828,
+            -89.99994659423828,
+            -179.99989318847656
+          ],
+          "scale": [
+            0.6999337077140808,
+            0.6999983191490173,
+            0.7000010013580322
           ]
         },
         {
@@ -151,6 +380,1516 @@
         }
       ],
       "children": []
+    },
+    {
+      "id": 10,
+      "name": "Torus (2)",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation": [
+            0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            408.08416748046875,
+            408.08416748046875,
+            408.08416748046875
+          ]
+        },
+        {
+          "_type": "MeshComponent",
+          "is_wireframe": false,
+          "mesh_asset": 15184736146948397108
+        },
+        {
+          "_type": "RenderableComponent",
+          "cast_shadows": true,
+          "material_asset": 14185615942273569681,
+          "receive_shadows": true,
+          "render_layer": 0,
+          "visible": true
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 11,
+      "name": "$MergedNode_0 (1)",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            -1.1601437330245972,
+            47.55592727661133,
+            12.657195091247559
+          ],
+          "rotation": [
+            237.5,
+            5.236642837524414,
+            180.00010681152344
+          ],
+          "scale": [
+            100.00003051757813,
+            100.00003051757813,
+            99.99999237060547
+          ]
+        }
+      ],
+      "children": [
+        {
+          "id": 12,
+          "name": "shoe_shoe_0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.19448453187942505,
+                -0.00533324247226119
+              ],
+              "rotation": [
+                -90.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                0.9999919533729553,
+                0.9999867677688599,
+                0.9999873042106628
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 14666471326903180958
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 15217961868152345220,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 13,
+          "name": "shoelace_shoelace_0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.19287742674350739,
+                0.006030386779457331
+              ],
+              "rotation": [
+                -90.0,
+                -0.0,
+                0.0
+              ],
+              "scale": [
+                0.9998595118522644,
+                0.9999995827674866,
+                0.9999995827674866
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 16914190839761721043
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 1648987425458956935,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "$MergedNode_0 (2)",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            11.302898406982422,
+            0.0,
+            37.35913848876953
+          ],
+          "rotation": [
+            0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "children": [
+        {
+          "id": 15,
+          "name": "tree.001-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 12823442299622153188
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 14654110930667956143,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 16,
+          "name": "tree.001-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 16895216964132136257
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 6554372933311162000,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 17,
+          "name": "tree.005-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 12199463642809606930
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 6542010419620023439,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 18,
+          "name": "tree.005-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 13590674523535614423
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 209127028400464304,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 19,
+          "name": "tree.003-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 558284763078401392
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 11007896527275327204,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 20,
+          "name": "tree.003-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 4643587056378523341
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 6347609436168981653,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 21,
+          "name": "tree.004-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 1136783471085178542
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 3791478753373684539,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 22,
+          "name": "tree.004-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 14884031368731146403
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 1962926479421152588,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 23,
+          "name": "tree.007-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 2597862256293469628
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 16689320477938351019,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 24,
+          "name": "tree.007-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 11178957873290901241
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 17431789099821542364,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 25,
+          "name": "tree.008-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 4292590517516283241
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 7414739924858117829,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 26,
+          "name": "tree.008-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 16337958280113686700
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 8542189710334479442,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 28,
+          "name": "tree.015-1.tree.027-1.tree.016-1.tree.026-1.tree.021-1.tree.022-1.tree.024-1.tree.028-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 17423293817428504410
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 9703112025791956994,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 29,
+          "name": "tree.015-0.tree.027-0.tree.016-0.tree.017-0.tree.018-0.tree.028-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 7250226324712377749
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 16370439301179503637,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 30,
+          "name": "Cube.012.Cube.004.Cube.001",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 7598716409843888952
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 9668948806236232792,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 31,
+          "name": "tree.020-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 9251306025704434475
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 10966596869959407455,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 32,
+          "name": "tree.020-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 12681489761235717206
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 2529165562241847346,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 33,
+          "name": "tree.009.tree.010.tree.006",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 15912960752086569585
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 9367573559812335346,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 34,
+          "name": "tree.019-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 4818077437402742740
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 4893195129966665443,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 35,
+          "name": "tree.019-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 16550909491909037156
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 8948048147017696054,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 36,
+          "name": "tree.011-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 2175940082709468609
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 4319326617404980961,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 37,
+          "name": "tree.011-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 15926930835096490898
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 6130449751277709351,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 38,
+          "name": "tree-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 17318141715822498391
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 12584595852339846352,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 39,
+          "name": "tree-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 4285751955365285360
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 17522390130251317178,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 40,
+          "name": "tree.013-0.tree.014-0.tree.012-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 8371054248665407309
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 9672160042844673829,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 41,
+          "name": "tree.013-1.tree.014-1.tree.012-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 4864250663372062510
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 7837504613827836875,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 42,
+          "name": "tree.017-1.tree.018-1",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 164754487308478755
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 5266839071002054121,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 43,
+          "name": "tree.021-0.tree.024-0.tree.026-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 6325329448580353596
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 11306527256882086265,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 44,
+          "name": "tree.022-0",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 14906425065577785209
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 10290273849644331552,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 45,
+          "name": "tree.023.tree.025",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 14649553905317097523
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 11306527256882086265,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "$MergedNode_0 (3)",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            0.0,
+            -7.309000125133025e-07,
+            1.0541000392549904e-06
+          ],
+          "rotation": [
+            1.5707964897155762,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            100.0,
+            100.0,
+            100.0
+          ]
+        }
+      ],
+      "children": [
+        {
+          "id": 47,
+          "name": "shoe_shoe_0 (1)",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.26450812816619873,
+                -0.3787214159965515
+              ],
+              "rotation": [
+                -93.25505065917969,
+                -3.748176097869873,
+                23.097436904907227
+              ],
+              "scale": [
+                0.9999942779541016,
+                0.9999890327453613,
+                0.9999862313270569
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 14666471326903180958
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 15217961868152345220,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 48,
+          "name": "shoelace_shoelace_0 (1)",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 16914190839761721043
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 1648987425458956935,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "$MergedNode_0 (4)",
+      "components": [
+        {
+          "_type": "TransformComponent",
+          "position": [
+            0.0,
+            -7.309000125133025e-07,
+            1.0541000392549904e-06
+          ],
+          "rotation": [
+            1.5707964897155762,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            100.0,
+            100.0,
+            100.0
+          ]
+        }
+      ],
+      "children": [
+        {
+          "id": 50,
+          "name": "shoe_shoe_0 (2)",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.49251410365104675,
+                0.3181989789009094,
+                -0.008725801482796669
+              ],
+              "rotation": [
+                -88.18079376220703,
+                -0.0,
+                0.0
+              ],
+              "scale": [
+                0.9999638795852661,
+                0.999762773513794,
+                0.999762773513794
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 14666471326903180958
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 15217961868152345220,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": 51,
+          "name": "shoelace_shoelace_0 (2)",
+          "components": [
+            {
+              "_type": "TransformComponent",
+              "position": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "_type": "MeshComponent",
+              "is_wireframe": false,
+              "mesh_asset": 16914190839761721043
+            },
+            {
+              "_type": "RenderableComponent",
+              "cast_shadows": true,
+              "material_asset": 1648987425458956935,
+              "receive_shadows": true,
+              "render_layer": 0,
+              "visible": true
+            }
+          ],
+          "children": []
+        }
+      ]
     }
   ]
 }

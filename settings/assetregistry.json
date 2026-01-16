@@ -1,11 +1,46 @@
 {
     "assets": [
         {
-            "last_modified": 134098722624445620,
-            "name": "material_041_54",
-            "path": "assets\\imported\\scene\\material_041_54.hfmat",
-            "type": 3,
-            "uuid": 15670970184985699701
+            "last_modified": 134118146199760120,
+            "name": "AbstractBark_COLOR_9",
+            "path": "assets\\models\\textures\\AbstractBark_COLOR_9.jpeg",
+            "type": 2,
+            "uuid": 15301513991418999970
+        },
+        {
+            "last_modified": 134121021863750066,
+            "name": "air_jordan_1_texture_5",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1_texture_5.png",
+            "type": 2,
+            "uuid": 3723539503940118655
+        },
+        {
+            "last_modified": 134118146196715928,
+            "name": "Branch_NORMAL0000_28",
+            "path": "assets\\models\\textures\\Branch_NORMAL0000_28.jpeg",
+            "type": 2,
+            "uuid": 12318232777687274869
+        },
+        {
+            "last_modified": 134121021873164850,
+            "name": "ForestAssetsLibrary_texture_9",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_9.jpg",
+            "type": 2,
+            "uuid": 16855828827527777801
+        },
+        {
+            "last_modified": 134118146193758450,
+            "name": "ForestAssetsLibrary",
+            "path": "assets\\models\\source\\ForestAssetsLibrary.glb",
+            "type": 0,
+            "uuid": 5851333992563021893
+        },
+        {
+            "last_modified": 134121021872836421,
+            "name": "ForestAssetsLibrary_texture_6",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_6.png",
+            "type": 2,
+            "uuid": 6211763795026202428
         },
         {
             "last_modified": 134098751057136880,
@@ -15,1481 +50,1152 @@
             "uuid": 7520223674901418529
         },
         {
-            "last_modified": 134098760247884379,
-            "name": "minecraft_castle_mesh_0",
-            "path": "assets\\imported\\minecraft_castle\\minecraft_castle_mesh_0.hfmesh",
-            "type": 1,
-            "uuid": 5000817653991374432
-        },
-        {
-            "last_modified": 134098722623583072,
-            "name": "material_041_55",
-            "path": "assets\\imported\\scene\\material_041_55.hfmat",
+            "last_modified": 134121021857800239,
+            "name": "Cylinder_material_0",
+            "path": "assets\\imported\\Cylinder\\Cylinder_material_0.hfmat",
             "type": 3,
-            "uuid": 16929583856397032774
+            "uuid": 10803964665571373505
         },
         {
-            "last_modified": 134098750620993530,
-            "name": "884ea104ea874de19dc097e602877a3b",
-            "path": "assets\\imported\\884ea104ea874de19dc097e602877a3b\\884ea104ea874de19dc097e602877a3b.hfmodel",
+            "last_modified": 134104789966852037,
+            "name": "Cylinder",
+            "path": "assets\\models\\Cylinder.glb",
             "type": 0,
-            "uuid": 11957773056693980043
+            "uuid": 11130463848361326537
         },
         {
-            "last_modified": 134098722623783820,
-            "name": "scene_mesh_62",
-            "path": "assets\\imported\\scene\\scene_mesh_62.hfmesh",
-            "type": 1,
-            "uuid": 14283742438637376170
-        },
-        {
-            "last_modified": 134098750620202009,
-            "name": "884ea104ea874de19dc097e602877a3b_mesh_0",
-            "path": "assets\\imported\\884ea104ea874de19dc097e602877a3b\\884ea104ea874de19dc097e602877a3b_mesh_0.hfmesh",
-            "type": 1,
-            "uuid": 2456948022672313610
-        },
-        {
-            "last_modified": 134098722622803165,
-            "name": "scene_mesh_32",
-            "path": "assets\\imported\\scene\\scene_mesh_32.hfmesh",
-            "type": 1,
-            "uuid": 9872588815125004153
-        },
-        {
-            "last_modified": 134098722623723641,
-            "name": "material_041_38",
-            "path": "assets\\imported\\scene\\material_041_38.hfmat",
-            "type": 3,
-            "uuid": 14839381223128988379
-        },
-        {
-            "last_modified": 134098760248086342,
-            "name": "defaultMat",
-            "path": "assets\\imported\\minecraft_castle\\defaultMat.hfmat",
-            "type": 3,
-            "uuid": 10790153994161166903
-        },
-        {
-            "last_modified": 134098750620397182,
-            "name": "defaultMat",
-            "path": "assets\\imported\\884ea104ea874de19dc097e602877a3b\\defaultMat.hfmat",
-            "type": 3,
-            "uuid": 5460231122821838966
-        },
-        {
-            "last_modified": 134098760248707799,
-            "name": "minecraft_castle",
-            "path": "assets\\imported\\minecraft_castle\\minecraft_castle.hfmodel",
-            "type": 0,
-            "uuid": 11342974245242824885
-        },
-        {
-            "last_modified": 134098722621922802,
-            "name": "material_041_34",
-            "path": "assets\\imported\\scene\\material_041_34.hfmat",
-            "type": 3,
-            "uuid": 16243857143716990903
-        },
-        {
-            "last_modified": 134098760248076330,
-            "name": "minecraft_castle_texture_0",
-            "path": "assets\\imported\\minecraft_castle\\minecraft_castle_texture_0.jpg",
+            "last_modified": 134118146198690450,
+            "name": "Branch_COLOR0001_11",
+            "path": "assets\\models\\textures\\Branch_COLOR0001_11.png",
             "type": 2,
-            "uuid": 7359081467812591590
+            "uuid": 10921939474911250249
         },
         {
-            "last_modified": 134098722622641310,
-            "name": "material_041_16",
-            "path": "assets\\imported\\scene\\material_041_16.hfmat",
+            "last_modified": 134107425254305028,
+            "name": "air_jordan_1",
+            "path": "assets\\models\\air_jordan_1.glb",
+            "type": 0,
+            "uuid": 1900340026928906020
+        },
+        {
+            "last_modified": 134104788939083756,
+            "name": "Cube",
+            "path": "assets\\models\\Cube.glb",
+            "type": 0,
+            "uuid": 15839957051002721986
+        },
+        {
+            "last_modified": 134118146196996366,
+            "name": "Boulder_NORMAL_18",
+            "path": "assets\\models\\textures\\Boulder_NORMAL_18.jpeg",
+            "type": 2,
+            "uuid": 15612481953750646739
+        },
+        {
+            "last_modified": 134121021874608912,
+            "name": "BarkMat.003",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BarkMat.003.hfmat",
             "type": 3,
-            "uuid": 3648675766634349471
+            "uuid": 9367573559812335346
         },
         {
-            "last_modified": 134098722620363169,
-            "name": "material_041",
-            "path": "assets\\imported\\scene\\material_041.hfmat",
+            "last_modified": 134121021873535354,
+            "name": "HollyBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\HollyBranchAtlas.hfmat",
             "type": 3,
-            "uuid": 5744766749374568595
+            "uuid": 17431789099821542364
         },
         {
-            "last_modified": 134098722624044922,
-            "name": "material_041_57",
-            "path": "assets\\imported\\scene\\material_041_57.hfmat",
-            "type": 3,
-            "uuid": 8683273598570970148
+            "last_modified": 134104795212457487,
+            "name": "Plane",
+            "path": "assets\\models\\Plane.glb",
+            "type": 0,
+            "uuid": 17841650140019751249
         },
         {
-            "last_modified": 134098722620403507,
-            "name": "material_041_0",
-            "path": "assets\\imported\\scene\\material_041_0.hfmat",
-            "type": 3,
-            "uuid": 1844617152419551100
+            "last_modified": 134118146194411886,
+            "name": "Bark005_4K_NormalGL_8",
+            "path": "assets\\models\\textures\\Bark005_4K_NormalGL_8.jpeg",
+            "type": 2,
+            "uuid": 12988257158627978863
         },
         {
-            "last_modified": 134098722622782936,
-            "name": "material_041_1",
-            "path": "assets\\imported\\scene\\material_041_1.hfmat",
-            "type": 3,
-            "uuid": 6535051116285784731
+            "last_modified": 134118146199361703,
+            "name": "Branch_NORMAL0000_35",
+            "path": "assets\\models\\textures\\Branch_NORMAL0000_35.jpeg",
+            "type": 2,
+            "uuid": 1004827241881212627
         },
         {
-            "last_modified": 134098722624881573,
-            "name": "material_041_3",
-            "path": "assets\\imported\\scene\\material_041_3.hfmat",
-            "type": 3,
-            "uuid": 13802456096444691341
+            "last_modified": 134118146194228655,
+            "name": "Bark007_1K-JPG_ColorV3_32",
+            "path": "assets\\models\\textures\\Bark007_1K-JPG_ColorV3_32.jpeg",
+            "type": 2,
+            "uuid": 6850892133783439099
         },
         {
-            "last_modified": 134098722624846477,
-            "name": "Merged_materials",
-            "path": "assets\\imported\\scene\\Merged_materials.hfmat",
-            "type": 3,
-            "uuid": 9432301535747814743
+            "last_modified": 134118146198114548,
+            "name": "Branch_NORMAL0000_24",
+            "path": "assets\\models\\textures\\Branch_NORMAL0000_24.jpeg",
+            "type": 2,
+            "uuid": 13031113317838543753
         },
         {
-            "last_modified": 134098722624846477,
-            "name": "material_041_5",
-            "path": "assets\\imported\\scene\\material_041_5.hfmat",
-            "type": 3,
-            "uuid": 2368657206385193039
+            "last_modified": 134118146201813695,
+            "name": "Branch_COLOR0000_29",
+            "path": "assets\\models\\textures\\Branch_COLOR0000_29.png",
+            "type": 2,
+            "uuid": 4231264007834714411
         },
         {
-            "last_modified": 134098722624605455,
-            "name": "material_041_10",
-            "path": "assets\\imported\\scene\\material_041_10.hfmat",
-            "type": 3,
-            "uuid": 5841266580944432541
+            "last_modified": 134118146194010064,
+            "name": "Bark007_1K-JPG_ColorV4_37",
+            "path": "assets\\models\\textures\\Bark007_1K-JPG_ColorV4_37.jpeg",
+            "type": 2,
+            "uuid": 6403508449007707079
         },
         {
-            "last_modified": 134098722622888296,
-            "name": "material_041_47",
-            "path": "assets\\imported\\scene\\material_041_47.hfmat",
-            "type": 3,
-            "uuid": 14930948561607510497
+            "last_modified": 134118146198365063,
+            "name": "BoulderPlain_NORMAL_20",
+            "path": "assets\\models\\textures\\BoulderPlain_NORMAL_20.jpeg",
+            "type": 2,
+            "uuid": 4907718216975680716
         },
         {
-            "last_modified": 134098722623402368,
-            "name": "material_041_15",
-            "path": "assets\\imported\\scene\\material_041_15.hfmat",
-            "type": 3,
-            "uuid": 8465847199004325746
+            "last_modified": 134118146195131004,
+            "name": "Boulder_COLOR_19",
+            "path": "assets\\models\\textures\\Boulder_COLOR_19.jpeg",
+            "type": 2,
+            "uuid": 178396208713758522
         },
         {
-            "last_modified": 134098722622290311,
-            "name": "material_041_53",
-            "path": "assets\\imported\\scene\\material_041_53.hfmat",
-            "type": 3,
-            "uuid": 16035892462703691592
+            "last_modified": 134118146195090995,
+            "name": "Bark007_1K-JPG_NormalGL_31",
+            "path": "assets\\models\\textures\\Bark007_1K-JPG_NormalGL_31.jpeg",
+            "type": 2,
+            "uuid": 3920943642783286770
         },
         {
-            "last_modified": 134098722623206722,
-            "name": "material_041_11",
-            "path": "assets\\imported\\scene\\material_041_11.hfmat",
-            "type": 3,
-            "uuid": 7099826144158342446
+            "last_modified": 134118146200513439,
+            "name": "Bark012_1K-JPG_ColorV2_1",
+            "path": "assets\\models\\textures\\Bark012_1K-JPG_ColorV2_1.jpeg",
+            "type": 2,
+            "uuid": 8015633460267949714
         },
         {
-            "last_modified": 134098722623043905,
-            "name": "scene_mesh_39",
-            "path": "assets\\imported\\scene\\scene_mesh_39.hfmesh",
-            "type": 1,
-            "uuid": 10893094584643709842
-        },
-        {
-            "last_modified": 134098722623688543,
-            "name": "material_041_33",
-            "path": "assets\\imported\\scene\\material_041_33.hfmat",
-            "type": 3,
-            "uuid": 13460637206974080550
-        },
-        {
-            "last_modified": 134098722622043383,
-            "name": "material_041_42",
-            "path": "assets\\imported\\scene\\material_041_42.hfmat",
-            "type": 3,
-            "uuid": 166430375459329966
-        },
-        {
-            "last_modified": 134098722622722821,
-            "name": "material_041_12",
-            "path": "assets\\imported\\scene\\material_041_12.hfmat",
-            "type": 3,
-            "uuid": 13670281449512614571
-        },
-        {
-            "last_modified": 134098722624529728,
-            "name": "material_041_13",
-            "path": "assets\\imported\\scene\\material_041_13.hfmat",
-            "type": 3,
-            "uuid": 15355237401990420428
-        },
-        {
-            "last_modified": 134098722624285037,
-            "name": "material_041_14",
-            "path": "assets\\imported\\scene\\material_041_14.hfmat",
-            "type": 3,
-            "uuid": 3417600256596971361
-        },
-        {
-            "last_modified": 134098763946068997,
+            "last_modified": 134118163500237102,
             "name": "World",
             "path": "assets\\World.hfscene",
             "type": 4,
             "uuid": 722014028725046960
         },
         {
-            "last_modified": 134098722624485623,
-            "name": "material_041_28",
-            "path": "assets\\imported\\scene\\material_041_28.hfmat",
-            "type": 3,
-            "uuid": 14311025171991898766
+            "last_modified": 134118146194698797,
+            "name": "Bark012_1K-JPG_NormalGL_0",
+            "path": "assets\\models\\textures\\Bark012_1K-JPG_NormalGL_0.jpeg",
+            "type": 2,
+            "uuid": 18180266636043714056
         },
         {
-            "last_modified": 134098722622581022,
-            "name": "material_041_17",
-            "path": "assets\\imported\\scene\\material_041_17.hfmat",
-            "type": 3,
-            "uuid": 11682869491531836752
+            "last_modified": 134118146201858787,
+            "name": "BoulderPlain_COLOR_21",
+            "path": "assets\\models\\textures\\BoulderPlain_COLOR_21.jpeg",
+            "type": 2,
+            "uuid": 16080230723123214413
         },
         {
-            "last_modified": 134098722621722098,
-            "name": "material_041_23",
-            "path": "assets\\imported\\scene\\material_041_23.hfmat",
-            "type": 3,
-            "uuid": 218905360604006835
+            "last_modified": 134118146196202133,
+            "name": "Branch_COLOR0001_7",
+            "path": "assets\\models\\textures\\Branch_COLOR0001_7.png",
+            "type": 2,
+            "uuid": 11424857209893330738
         },
         {
-            "last_modified": 134098722622003267,
-            "name": "material_041_18",
-            "path": "assets\\imported\\scene\\material_041_18.hfmat",
-            "type": 3,
-            "uuid": 16824386004271819493
+            "last_modified": 134121021873525298,
+            "name": "ForestAssetsLibrary_texture_14",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_14.png",
+            "type": 2,
+            "uuid": 16443831229588023613
         },
         {
-            "last_modified": 134098722623382105,
-            "name": "material_041_50",
-            "path": "assets\\imported\\scene\\material_041_50.hfmat",
-            "type": 3,
-            "uuid": 5649100619316663961
+            "last_modified": 134118146200959141,
+            "name": "UltraQualityFirOptimized2_bark07_color_23",
+            "path": "assets\\models\\textures\\UltraQualityFirOptimized2_bark07_color_23.jpeg",
+            "type": 2,
+            "uuid": 12660910248269101733
         },
         {
-            "last_modified": 134098722623924398,
-            "name": "material_041_19",
-            "path": "assets\\imported\\scene\\material_041_19.hfmat",
-            "type": 3,
-            "uuid": 18040393826208669366
+            "last_modified": 134118146202209179,
+            "name": "Branch_COLOR0000_36",
+            "path": "assets\\models\\textures\\Branch_COLOR0000_36.png",
+            "type": 2,
+            "uuid": 3112125472451487087
         },
         {
-            "last_modified": 134098722623206722,
-            "name": "scene_mesh_45",
-            "path": "assets\\imported\\scene\\scene_mesh_45.hfmesh",
+            "last_modified": 134118146195645183,
+            "name": "Branch_COLOR0000_25",
+            "path": "assets\\models\\textures\\Branch_COLOR0000_25.png",
+            "type": 2,
+            "uuid": 13130148378709459711
+        },
+        {
+            "last_modified": 134121021873670499,
+            "name": "ForestAssetsLibrary_texture_4",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_4.jpg",
+            "type": 2,
+            "uuid": 1235266561489483286
+        },
+        {
+            "last_modified": 134118146195950455,
+            "name": "Branch_COLOR0000_34",
+            "path": "assets\\models\\textures\\Branch_COLOR0000_34.png",
+            "type": 2,
+            "uuid": 2810780265701898421
+        },
+        {
+            "last_modified": 134121021863530574,
+            "name": "shoe",
+            "path": "assets\\imported\\air_jordan_1\\shoe.hfmat",
+            "type": 3,
+            "uuid": 15217961868152345220
+        },
+        {
+            "last_modified": 134118146196465642,
+            "name": "Branch_COLOR0000_ALT_30",
+            "path": "assets\\models\\textures\\Branch_COLOR0000_ALT_30.png",
+            "type": 2,
+            "uuid": 16501940490198499953
+        },
+        {
+            "last_modified": 134118146199021122,
+            "name": "Branch_COLOR0001_13",
+            "path": "assets\\models\\textures\\Branch_COLOR0001_13.png",
+            "type": 2,
+            "uuid": 14230285268900373123
+        },
+        {
+            "last_modified": 134118146199679227,
+            "name": "Branch_COLOR0001_15",
+            "path": "assets\\models\\textures\\Branch_COLOR0001_15.png",
+            "type": 2,
+            "uuid": 4215459629320547477
+        },
+        {
+            "last_modified": 134121021857800239,
+            "name": "Cylinder_mesh_0",
+            "path": "assets\\imported\\Cylinder\\Cylinder_mesh_0.hfmesh",
             "type": 1,
-            "uuid": 943287262637767667
+            "uuid": 5408336815214538916
         },
         {
-            "last_modified": 134098722622983486,
-            "name": "scene_mesh_38",
-            "path": "assets\\imported\\scene\\scene_mesh_38.hfmesh",
+            "last_modified": 134118146201291747,
+            "name": "Branch_COLOR0001_17",
+            "path": "assets\\models\\textures\\Branch_COLOR0001_17.png",
+            "type": 2,
+            "uuid": 10559514198203394511
+        },
+        {
+            "last_modified": 134121021875360859,
+            "name": "ForestAssetsLibrary_mesh_25",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_25.hfmesh",
             "type": 1,
-            "uuid": 12284305465369717335
+            "uuid": 8371054248665407309
         },
         {
-            "last_modified": 134098722621887702,
-            "name": "material_041_48",
-            "path": "assets\\imported\\scene\\material_041_48.hfmat",
-            "type": 3,
-            "uuid": 15306814662788599764
-        },
-        {
-            "last_modified": 134098722623126430,
-            "name": "material_041_2",
-            "path": "assets\\imported\\scene\\material_041_2.hfmat",
-            "type": 3,
-            "uuid": 15061069767856024414
-        },
-        {
-            "last_modified": 134098722623723641,
-            "name": "scene_mesh_59",
-            "path": "assets\\imported\\scene\\scene_mesh_59.hfmesh",
+            "last_modified": 134121021862999725,
+            "name": "air_jordan_1_mesh_0",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1_mesh_0.hfmesh",
             "type": 1,
-            "uuid": 965543859508461980
+            "uuid": 14666471326903180958
         },
         {
-            "last_modified": 134098722624209825,
-            "name": "material_041_20",
-            "path": "assets\\imported\\scene\\material_041_20.hfmat",
+            "last_modified": 134121021857560053,
+            "name": "Cube_mesh_0",
+            "path": "assets\\imported\\Cube\\Cube_mesh_0.hfmesh",
+            "type": 1,
+            "uuid": 6132033153381584298
+        },
+        {
+            "last_modified": 134118146194527457,
+            "name": "sakura_bark_nor_gl_1k_4",
+            "path": "assets\\models\\textures\\sakura_bark_nor_gl_1k_4.jpeg",
+            "type": 2,
+            "uuid": 17830160133496680822
+        },
+        {
+            "last_modified": 134118146197709174,
+            "name": "Branch_COLOR0001_3",
+            "path": "assets\\models\\textures\\Branch_COLOR0001_3.png",
+            "type": 2,
+            "uuid": 18345820987780023302
+        },
+        {
+            "last_modified": 134118146194915704,
+            "name": "Branch_NORMAL0000_33",
+            "path": "assets\\models\\textures\\Branch_NORMAL0000_33.jpeg",
+            "type": 2,
+            "uuid": 12328530180063881393
+        },
+        {
+            "last_modified": 134121021872921402,
+            "name": "ForestAssetsLibrary_mesh_4",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_4.hfmesh",
+            "type": 1,
+            "uuid": 558284763078401392
+        },
+        {
+            "last_modified": 134121021858009205,
+            "name": "Torus_material_0",
+            "path": "assets\\imported\\Torus\\Torus_material_0.hfmat",
             "type": 3,
-            "uuid": 1530870839503645590
+            "uuid": 14185615942273569681
         },
         {
-            "last_modified": 134098722623322011,
-            "name": "material_041_46",
-            "path": "assets\\imported\\scene\\material_041_46.hfmat",
-            "type": 3,
-            "uuid": 1532451430305313266
+            "last_modified": 134118146199980474,
+            "name": "Branch_NORMAL0001_12",
+            "path": "assets\\models\\textures\\Branch_NORMAL0001_12.jpeg",
+            "type": 2,
+            "uuid": 6043000679570411037
         },
         {
-            "last_modified": 134098722625288475,
-            "name": "scene",
-            "path": "assets\\imported\\scene\\scene.hfmodel",
+            "last_modified": 134118146197375422,
+            "name": "Branch_NORMAL0001_14",
+            "path": "assets\\models\\textures\\Branch_NORMAL0001_14.jpeg",
+            "type": 2,
+            "uuid": 16371098864111342343
+        },
+        {
+            "last_modified": 134118146195258448,
+            "name": "UltraQualityFirOptimized_bark07_normal_22",
+            "path": "assets\\models\\textures\\UltraQualityFirOptimized_bark07_normal_22.jpeg",
+            "type": 2,
+            "uuid": 13491065062289288684
+        },
+        {
+            "last_modified": 134118146200179618,
+            "name": "Branch_NORMAL0001_2",
+            "path": "assets\\models\\textures\\Branch_NORMAL0001_2.jpeg",
+            "type": 2,
+            "uuid": 263708396653768990
+        },
+        {
+            "last_modified": 134118146197176630,
+            "name": "Branch_NORMAL0001_6",
+            "path": "assets\\models\\textures\\Branch_NORMAL0001_6.jpeg",
+            "type": 2,
+            "uuid": 11153930141150335994
+        },
+        {
+            "last_modified": 134118146197405362,
+            "name": "internal_ground_ao_texture",
+            "path": "assets\\models\\textures\\internal_ground_ao_texture.jpeg",
+            "type": 2,
+            "uuid": 8239706884880809032
+        },
+        {
+            "last_modified": 134118146201543508,
+            "name": "sakura_bark_diff_1k_5",
+            "path": "assets\\models\\textures\\sakura_bark_diff_1k_5.jpeg",
+            "type": 2,
+            "uuid": 8773450124441702675
+        },
+        {
+            "last_modified": 134118146201431907,
+            "name": "wood_0027_color_1kV2_27",
+            "path": "assets\\models\\textures\\wood_0027_color_1kV2_27.jpeg",
+            "type": 2,
+            "uuid": 63165784774226738
+        },
+        {
+            "last_modified": 134121021863480123,
+            "name": "air_jordan_1_texture_1",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1_texture_1.png",
+            "type": 2,
+            "uuid": 13465728124424545587
+        },
+        {
+            "last_modified": 134104791114194817,
+            "name": "Torus",
+            "path": "assets\\models\\Torus.glb",
             "type": 0,
-            "uuid": 15698371697713949885
+            "uuid": 4500543326520154666
         },
         {
-            "last_modified": 134098722623206722,
-            "name": "material_041_21",
-            "path": "assets\\imported\\scene\\material_041_21.hfmat",
+            "last_modified": 134121021857675128,
+            "name": "Cube_material_0",
+            "path": "assets\\imported\\Cube\\Cube_material_0.hfmat",
             "type": 3,
-            "uuid": 176105020458755269
+            "uuid": 15076267344525704583
         },
         {
-            "last_modified": 134098722621962913,
-            "name": "material_041_39",
-            "path": "assets\\imported\\scene\\material_041_39.hfmat",
-            "type": 3,
-            "uuid": 16377932609816272572
-        },
-        {
-            "last_modified": 134098722622923362,
-            "name": "material_041_41",
-            "path": "assets\\imported\\scene\\material_041_41.hfmat",
-            "type": 3,
-            "uuid": 6736885680813602091
-        },
-        {
-            "last_modified": 134098722622043383,
-            "name": "material_041_22",
-            "path": "assets\\imported\\scene\\material_041_22.hfmat",
-            "type": 3,
-            "uuid": 4775961510034921140
+            "last_modified": 134121021857720169,
+            "name": "Cube",
+            "path": "assets\\imported\\Cube\\Cube.hfmodel",
+            "type": 0,
+            "uuid": 11716348584348658987
         },
         {
-            "last_modified": 134098722621641873,
-            "name": "scene_mesh_5",
-            "path": "assets\\imported\\scene\\scene_mesh_5.hfmesh",
+            "last_modified": 134121021873365112,
+            "name": "ForestAssetsLibrary_mesh_8",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_8.hfmesh",
             "type": 1,
-            "uuid": 1686018281490911049
+            "uuid": 2597862256293469628
         },
         {
-            "last_modified": 134098722624585153,
-            "name": "material_041_24",
-            "path": "assets\\imported\\scene\\material_041_24.hfmat",
-            "type": 3,
-            "uuid": 18335861062690984826
-        },
-        {
-            "last_modified": 134098722621325169,
-            "name": "material_041_31",
-            "path": "assets\\imported\\scene\\material_041_31.hfmat",
-            "type": 3,
-            "uuid": 4159161144237206660
-        },
-        {
-            "last_modified": 134098722624129343,
-            "name": "scene_mesh_75",
-            "path": "assets\\imported\\scene\\scene_mesh_75.hfmesh",
-            "type": 1,
-            "uuid": 9283987013795200314
+            "last_modified": 134121021857835354,
+            "name": "Cylinder",
+            "path": "assets\\imported\\Cylinder\\Cylinder.hfmodel",
+            "type": 0,
+            "uuid": 5573715420781345265
         },
         {
-            "last_modified": 134098722623924398,
-            "name": "scene_mesh_67",
-            "path": "assets\\imported\\scene\\scene_mesh_67.hfmesh",
+            "last_modified": 134121021857999163,
+            "name": "Torus_mesh_0",
+            "path": "assets\\imported\\Torus\\Torus_mesh_0.hfmesh",
             "type": 1,
-            "uuid": 5727902313785936955
+            "uuid": 15184736146948397108
         },
         {
-            "last_modified": 134098722622083385,
-            "name": "material_041_25",
-            "path": "assets\\imported\\scene\\material_041_25.hfmat",
-            "type": 3,
-            "uuid": 14272951091602143337
-        },
-        {
-            "last_modified": 134098722622083385,
-            "name": "material_041_26",
-            "path": "assets\\imported\\scene\\material_041_26.hfmat",
-            "type": 3,
-            "uuid": 3288011969847688728
+            "last_modified": 134121021858031292,
+            "name": "Torus",
+            "path": "assets\\imported\\Torus\\Torus.hfmodel",
+            "type": 0,
+            "uuid": 17077693991936146785
         },
         {
-            "last_modified": 134098722624129343,
-            "name": "scene_mesh_74",
-            "path": "assets\\imported\\scene\\scene_mesh_74.hfmesh",
+            "last_modified": 134121021858402561,
+            "name": "Plane_mesh_0",
+            "path": "assets\\imported\\Plane\\Plane_mesh_0.hfmesh",
             "type": 1,
-            "uuid": 4091739669925761727
-        },
-        {
-            "last_modified": 134098722623487566,
-            "name": "material_041_27",
-            "path": "assets\\imported\\scene\\material_041_27.hfmat",
-            "type": 3,
-            "uuid": 6944202158694199015
+            "uuid": 215693743712635248
         },
         {
-            "last_modified": 134098722623522664,
-            "name": "material_041_29",
-            "path": "assets\\imported\\scene\\material_041_29.hfmat",
+            "last_modified": 134121021858417636,
+            "name": "Plane_material_0",
+            "path": "assets\\imported\\Plane\\Plane_material_0.hfmat",
             "type": 3,
-            "uuid": 6578597028437758717
+            "uuid": 5981206182166823413
         },
         {
-            "last_modified": 134098722624725774,
-            "name": "scene_mesh_97",
-            "path": "assets\\imported\\scene\\scene_mesh_97.hfmesh",
-            "type": 1,
-            "uuid": 6349533371199004738
-        },
-        {
-            "last_modified": 134098722623688543,
-            "name": "scene_mesh_58",
-            "path": "assets\\imported\\scene\\scene_mesh_58.hfmesh",
-            "type": 1,
-            "uuid": 9546639476505893593
+            "last_modified": 134121021858437706,
+            "name": "Plane",
+            "path": "assets\\imported\\Plane\\Plane.hfmodel",
+            "type": 0,
+            "uuid": 2476527707083020325
         },
         {
-            "last_modified": 134098722622205178,
-            "name": "material_041_45",
-            "path": "assets\\imported\\scene\\material_041_45.hfmat",
-            "type": 3,
-            "uuid": 15162024071644888607
+            "last_modified": 134121021863520115,
+            "name": "air_jordan_1_texture_0",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1_texture_0.png",
+            "type": 2,
+            "uuid": 14591532397246149536
         },
         {
-            "last_modified": 134098722624690678,
-            "name": "material_041_30",
-            "path": "assets\\imported\\scene\\material_041_30.hfmat",
+            "last_modified": 134121021875977523,
+            "name": "CommonBark.001",
+            "path": "assets\\imported\\ForestAssetsLibrary\\CommonBark.001.hfmat",
             "type": 3,
-            "uuid": 6204131287232659139
+            "uuid": 11306527256882086265
         },
         {
-            "last_modified": 134098722624405514,
-            "name": "material_041_32",
-            "path": "assets\\imported\\scene\\material_041_32.hfmat",
-            "type": 3,
-            "uuid": 18010052900402447061
+            "last_modified": 134121021863399933,
+            "name": "air_jordan_1_texture_2",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1_texture_2.png",
+            "type": 2,
+            "uuid": 11252787305766304134
         },
         {
-            "last_modified": 134098722623683444,
-            "name": "scene_mesh_57",
-            "path": "assets\\imported\\scene\\scene_mesh_57.hfmesh",
+            "last_modified": 134121021863684957,
+            "name": "air_jordan_1_mesh_1",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1_mesh_1.hfmesh",
             "type": 1,
-            "uuid": 5738854312392394638
-        },
-        {
-            "last_modified": 134098722624184435,
-            "name": "material_041_35",
-            "path": "assets\\imported\\scene\\material_041_35.hfmat",
-            "type": 3,
-            "uuid": 12327747946009554984
-        },
-        {
-            "last_modified": 134098722623442477,
-            "name": "material_041_36",
-            "path": "assets\\imported\\scene\\material_041_36.hfmat",
-            "type": 3,
-            "uuid": 1753794096641187577
+            "uuid": 16914190839761721043
         },
         {
-            "last_modified": 134098722624405514,
-            "name": "material_041_37",
-            "path": "assets\\imported\\scene\\material_041_37.hfmat",
-            "type": 3,
-            "uuid": 5264179882529116106
+            "last_modified": 134121021863825122,
+            "name": "air_jordan_1_texture_3",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1_texture_3.png",
+            "type": 2,
+            "uuid": 4078088064517454265
         },
         {
-            "last_modified": 134098722623487566,
-            "name": "scene_mesh_51",
-            "path": "assets\\imported\\scene\\scene_mesh_51.hfmesh",
-            "type": 1,
-            "uuid": 4840784931039342404
+            "last_modified": 134121021863820069,
+            "name": "air_jordan_1_texture_4",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1_texture_4.png",
+            "type": 2,
+            "uuid": 10706277394253181132
         },
         {
-            "last_modified": 134098722624325158,
-            "name": "material_041_4",
-            "path": "assets\\imported\\scene\\material_041_4.hfmat",
+            "last_modified": 134121021863835182,
+            "name": "shoelace",
+            "path": "assets\\imported\\air_jordan_1\\shoelace.hfmat",
             "type": 3,
-            "uuid": 10914931345240391744
+            "uuid": 1648987425458956935
         },
         {
-            "last_modified": 134098722624084922,
-            "name": "material_041_49",
-            "path": "assets\\imported\\scene\\material_041_49.hfmat",
-            "type": 3,
-            "uuid": 10750039988334507475
+            "last_modified": 134121021863960509,
+            "name": "air_jordan_1",
+            "path": "assets\\imported\\air_jordan_1\\air_jordan_1.hfmodel",
+            "type": 0,
+            "uuid": 14755662151676076631
         },
         {
-            "last_modified": 134098722624846477,
-            "name": "scene_mesh_100",
-            "path": "assets\\imported\\scene\\scene_mesh_100.hfmesh",
+            "last_modified": 134121021872463316,
+            "name": "ForestAssetsLibrary_mesh_0",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_0.hfmesh",
             "type": 1,
-            "uuid": 8304483009323749461
-        },
-        {
-            "last_modified": 134098722624004806,
-            "name": "material_041_40",
-            "path": "assets\\imported\\scene\\material_041_40.hfmat",
-            "type": 3,
-            "uuid": 8421841633291407948
-        },
-        {
-            "last_modified": 134098722623688543,
-            "name": "material_041_43",
-            "path": "assets\\imported\\scene\\material_041_43.hfmat",
-            "type": 3,
-            "uuid": 17354614885954971677
-        },
-        {
-            "last_modified": 134098722623603347,
-            "name": "material_041_56",
-            "path": "assets\\imported\\scene\\material_041_56.hfmat",
-            "type": 3,
-            "uuid": 15901781812232307171
+            "uuid": 12823442299622153188
         },
         {
-            "last_modified": 134098722622184949,
-            "name": "material_041_44",
-            "path": "assets\\imported\\scene\\material_041_44.hfmat",
-            "type": 3,
-            "uuid": 4749473722832824272
+            "last_modified": 134121021874503746,
+            "name": "ForestAssetsLibrary_texture_0",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_0.jpg",
+            "type": 2,
+            "uuid": 7949627706429688706
         },
         {
-            "last_modified": 134098722624325158,
-            "name": "material_041_51",
-            "path": "assets\\imported\\scene\\material_041_51.hfmat",
+            "last_modified": 134121021874321442,
+            "name": "BoulderPlain",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BoulderPlain.hfmat",
             "type": 3,
-            "uuid": 3554184573747477866
+            "uuid": 9668948806236232792
         },
         {
-            "last_modified": 134098722624605455,
-            "name": "scene_mesh_94",
-            "path": "assets\\imported\\scene\\scene_mesh_94.hfmesh",
-            "type": 1,
-            "uuid": 8444867715962771633
+            "last_modified": 134121021874473734,
+            "name": "ForestAssetsLibrary_texture_1",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_1.jpg",
+            "type": 2,
+            "uuid": 13322218607721082033
         },
         {
-            "last_modified": 134098722624529728,
-            "name": "material_041_52",
-            "path": "assets\\imported\\scene\\material_041_52.hfmat",
+            "last_modified": 134121021872548461,
+            "name": "AppleBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\AppleBark.hfmat",
             "type": 3,
-            "uuid": 13723297784834431703
+            "uuid": 14654110930667956143
         },
         {
-            "last_modified": 134098722624445620,
-            "name": "scene_mesh_86",
-            "path": "assets\\imported\\scene\\scene_mesh_86.hfmesh",
+            "last_modified": 134121021872578447,
+            "name": "ForestAssetsLibrary_mesh_1",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_1.hfmesh",
             "type": 1,
-            "uuid": 4844850774479472580
+            "uuid": 16895216964132136257
         },
         {
-            "last_modified": 134098722623924398,
-            "name": "material_041_58",
-            "path": "assets\\imported\\scene\\material_041_58.hfmat",
+            "last_modified": 134121021874201232,
+            "name": "BirchBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BirchBark.hfmat",
             "type": 3,
-            "uuid": 1636227786772580593
+            "uuid": 16370439301179503637
         },
         {
-            "last_modified": 134098722624385243,
-            "name": "material_041_59",
-            "path": "assets\\imported\\scene\\material_041_59.hfmat",
-            "type": 3,
-            "uuid": 10241344923446225218
-        },
-        {
-            "last_modified": 134098722622520890,
-            "name": "material_041_6",
-            "path": "assets\\imported\\scene\\material_041_6.hfmat",
-            "type": 3,
-            "uuid": 16104248190788700002
+            "last_modified": 134121021872659190,
+            "name": "ForestAssetsLibrary_texture_2",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_2.png",
+            "type": 2,
+            "uuid": 3772278352360846032
         },
         {
-            "last_modified": 134098722624249939,
-            "name": "material_041_60",
-            "path": "assets\\imported\\scene\\material_041_60.hfmat",
-            "type": 3,
-            "uuid": 11474985185091673618
+            "last_modified": 134121021872608453,
+            "name": "ForestAssetsLibrary_texture_3",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_3.jpg",
+            "type": 2,
+            "uuid": 11415822662503839307
         },
         {
-            "last_modified": 134098722623402368,
-            "name": "material_041_61",
-            "path": "assets\\imported\\scene\\material_041_61.hfmat",
+            "last_modified": 134121021872659190,
+            "name": "AppleBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\AppleBranchAtlas.hfmat",
             "type": 3,
-            "uuid": 6182136487874428929
+            "uuid": 6554372933311162000
         },
         {
-            "last_modified": 134098722623583072,
-            "name": "scene_mesh_54",
-            "path": "assets\\imported\\scene\\scene_mesh_54.hfmesh",
+            "last_modified": 134121021872679193,
+            "name": "ForestAssetsLibrary_mesh_2",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_2.hfmesh",
             "type": 1,
-            "uuid": 15107392286528442157
-        },
-        {
-            "last_modified": 134098722624084922,
-            "name": "material_041_62",
-            "path": "assets\\imported\\scene\\material_041_62.hfmat",
-            "type": 3,
-            "uuid": 3183921773674754416
-        },
-        {
-            "last_modified": 134098722624129343,
-            "name": "material_041_63",
-            "path": "assets\\imported\\scene\\material_041_63.hfmat",
-            "type": 3,
-            "uuid": 12822941356228141247
-        },
-        {
-            "last_modified": 134098722622803165,
-            "name": "material_041_64",
-            "path": "assets\\imported\\scene\\material_041_64.hfmat",
-            "type": 3,
-            "uuid": 9864362375435800014
-        },
-        {
-            "last_modified": 134098722623583072,
-            "name": "material_041_65",
-            "path": "assets\\imported\\scene\\material_041_65.hfmat",
-            "type": 3,
-            "uuid": 14589172297285700157
+            "uuid": 12199463642809606930
         },
         {
-            "last_modified": 134098722623889299,
-            "name": "material_041_66",
-            "path": "assets\\imported\\scene\\material_041_66.hfmat",
+            "last_modified": 134121021874503746,
+            "name": "OakBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\OakBark.hfmat",
             "type": 3,
-            "uuid": 5656680519598958444
+            "uuid": 2529165562241847346
         },
         {
-            "last_modified": 134098722623889299,
-            "name": "material_041_67",
-            "path": "assets\\imported\\scene\\material_041_67.hfmat",
-            "type": 3,
-            "uuid": 10632192203489078475
+            "last_modified": 134121021873630496,
+            "name": "ForestAssetsLibrary_texture_5",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_5.jpg",
+            "type": 2,
+            "uuid": 8680744764119318373
         },
         {
-            "last_modified": 134098722623844187,
-            "name": "material_041_68",
-            "path": "assets\\imported\\scene\\material_041_68.hfmat",
+            "last_modified": 134121021872751244,
+            "name": "AshBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\AshBark.hfmat",
             "type": 3,
-            "uuid": 8038731729914237114
+            "uuid": 6542010419620023439
         },
         {
-            "last_modified": 134098722621887702,
-            "name": "scene_mesh_8",
-            "path": "assets\\imported\\scene\\scene_mesh_8.hfmesh",
+            "last_modified": 134121021872761246,
+            "name": "ForestAssetsLibrary_mesh_3",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_3.hfmesh",
             "type": 1,
-            "uuid": 15689050741432746624
-        },
-        {
-            "last_modified": 134098722623783820,
-            "name": "material_041_69",
-            "path": "assets\\imported\\scene\\material_041_69.hfmat",
-            "type": 3,
-            "uuid": 16054710695645918377
+            "uuid": 13590674523535614423
         },
         {
-            "last_modified": 134098722624169353,
-            "name": "scene_mesh_76",
-            "path": "assets\\imported\\scene\\scene_mesh_76.hfmesh",
-            "type": 1,
-            "uuid": 8103239154622368969
+            "last_modified": 134121021872801204,
+            "name": "ForestAssetsLibrary_texture_7",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_7.jpg",
+            "type": 2,
+            "uuid": 16267088955291355487
         },
         {
-            "last_modified": 134098722624806370,
-            "name": "material_041_7",
-            "path": "assets\\imported\\scene\\material_041_7.hfmat",
+            "last_modified": 134121021872846413,
+            "name": "AshBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\AshBranchAtlas.hfmat",
             "type": 3,
-            "uuid": 2080709753662458513
+            "uuid": 209127028400464304
         },
         {
-            "last_modified": 134098722623763744,
-            "name": "material_041_70",
-            "path": "assets\\imported\\scene\\material_041_70.hfmat",
-            "type": 3,
-            "uuid": 12455028392248993743
+            "last_modified": 134121021873194841,
+            "name": "ForestAssetsLibrary_texture_8",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_8.jpg",
+            "type": 2,
+            "uuid": 11452275678792017914
         },
         {
-            "last_modified": 134098722622641310,
-            "name": "material_041_71",
-            "path": "assets\\imported\\scene\\material_041_71.hfmat",
+            "last_modified": 134121021872981486,
+            "name": "CherryBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\CherryBark.hfmat",
             "type": 3,
-            "uuid": 2554558457394640832
+            "uuid": 11007896527275327204
         },
         {
-            "last_modified": 134098722623603347,
-            "name": "scene_mesh_56",
-            "path": "assets\\imported\\scene\\scene_mesh_56.hfmesh",
+            "last_modified": 134121021873026500,
+            "name": "ForestAssetsLibrary_mesh_5",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_5.hfmesh",
             "type": 1,
-            "uuid": 2169987141254232707
-        },
-        {
-            "last_modified": 134098722623043905,
-            "name": "material_041_72",
-            "path": "assets\\imported\\scene\\material_041_72.hfmat",
-            "type": 3,
-            "uuid": 12167080939526259217
+            "uuid": 4643587056378523341
         },
         {
-            "last_modified": 134098722622385466,
-            "name": "material_041_73",
-            "path": "assets\\imported\\scene\\material_041_73.hfmat",
-            "type": 3,
-            "uuid": 7743875302942949090
-        },
-        {
-            "last_modified": 134098722620383256,
-            "name": "material_041_74",
-            "path": "assets\\imported\\scene\\material_041_74.hfmat",
-            "type": 3,
-            "uuid": 16621422302149585435
+            "last_modified": 134121021873099735,
+            "name": "ForestAssetsLibrary_texture_10",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_10.png",
+            "type": 2,
+            "uuid": 3002370861347623697
         },
         {
-            "last_modified": 134098722624084922,
-            "name": "material_041_75",
-            "path": "assets\\imported\\scene\\material_041_75.hfmat",
-            "type": 3,
-            "uuid": 11930988338283351804
+            "last_modified": 134121021873056554,
+            "name": "ForestAssetsLibrary_texture_11",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_11.jpg",
+            "type": 2,
+            "uuid": 14077176385307636202
         },
         {
-            "last_modified": 134098722623603347,
-            "name": "material_041_76",
-            "path": "assets\\imported\\scene\\material_041_76.hfmat",
+            "last_modified": 134121021873099735,
+            "name": "CherryBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\CherryBranchAtlas.hfmat",
             "type": 3,
-            "uuid": 5442083208598940429
+            "uuid": 6347609436168981653
         },
         {
-            "last_modified": 134098722623924398,
-            "name": "scene_mesh_66",
-            "path": "assets\\imported\\scene\\scene_mesh_66.hfmesh",
+            "last_modified": 134121021873144845,
+            "name": "ForestAssetsLibrary_mesh_6",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_6.hfmesh",
             "type": 1,
-            "uuid": 5401221225747916646
+            "uuid": 1136783471085178542
         },
         {
-            "last_modified": 134098722623083909,
-            "name": "material_041_77",
-            "path": "assets\\imported\\scene\\material_041_77.hfmat",
+            "last_modified": 134121021873204888,
+            "name": "PlumBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\PlumBark.hfmat",
             "type": 3,
-            "uuid": 6700696880010273502
+            "uuid": 3791478753373684539
         },
         {
-            "last_modified": 134098722624529728,
-            "name": "scene_mesh_91",
-            "path": "assets\\imported\\scene\\scene_mesh_91.hfmesh",
+            "last_modified": 134121021873239994,
+            "name": "ForestAssetsLibrary_mesh_7",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_7.hfmesh",
             "type": 1,
-            "uuid": 9340318900655457504
-        },
-        {
-            "last_modified": 134098722623083909,
-            "name": "material_041_78",
-            "path": "assets\\imported\\scene\\material_041_78.hfmat",
-            "type": 3,
-            "uuid": 5807406863878558711
-        },
-        {
-            "last_modified": 134098722622923362,
-            "name": "material_041_79",
-            "path": "assets\\imported\\scene\\material_041_79.hfmat",
-            "type": 3,
-            "uuid": 8120283016724640616
-        },
-        {
-            "last_modified": 134098722624725774,
-            "name": "material_041_8",
-            "path": "assets\\imported\\scene\\material_041_8.hfmat",
-            "type": 3,
-            "uuid": 14546176865913444932
-        },
-        {
-            "last_modified": 134098722622481514,
-            "name": "material_041_80",
-            "path": "assets\\imported\\scene\\material_041_80.hfmat",
-            "type": 3,
-            "uuid": 17154803507245713688
-        },
-        {
-            "last_modified": 134098722624485623,
-            "name": "material_041_94",
-            "path": "assets\\imported\\scene\\material_041_94.hfmat",
-            "type": 3,
-            "uuid": 15620585634039212537
-        },
-        {
-            "last_modified": 134098722622445724,
-            "name": "material_041_81",
-            "path": "assets\\imported\\scene\\material_041_81.hfmat",
-            "type": 3,
-            "uuid": 2364249622382672359
+            "uuid": 14884031368731146403
         },
         {
-            "last_modified": 134098722623964511,
-            "name": "material_041_82",
-            "path": "assets\\imported\\scene\\material_041_82.hfmat",
-            "type": 3,
-            "uuid": 13755908526379458170
+            "last_modified": 134121021873320005,
+            "name": "ForestAssetsLibrary_texture_12",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_12.png",
+            "type": 2,
+            "uuid": 9599466851124525195
         },
         {
-            "last_modified": 134098722624806370,
-            "name": "material_041_83",
-            "path": "assets\\imported\\scene\\material_041_83.hfmat",
-            "type": 3,
-            "uuid": 9692998555290616681
+            "last_modified": 134121021873270027,
+            "name": "ForestAssetsLibrary_texture_13",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_13.jpg",
+            "type": 2,
+            "uuid": 3024533676857512292
         },
         {
-            "last_modified": 134098722623723641,
-            "name": "material_041_84",
-            "path": "assets\\imported\\scene\\material_041_84.hfmat",
+            "last_modified": 134121021873325064,
+            "name": "PlumBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\PlumBranchAtlas.hfmat",
             "type": 3,
-            "uuid": 196008973723394484
+            "uuid": 1962926479421152588
         },
         {
-            "last_modified": 134098722622963430,
-            "name": "material_041_85",
-            "path": "assets\\imported\\scene\\material_041_85.hfmat",
+            "last_modified": 134121021873440249,
+            "name": "HollyBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\HollyBark.hfmat",
             "type": 3,
-            "uuid": 14085696898002031795
+            "uuid": 16689320477938351019
         },
         {
-            "last_modified": 134098722622923362,
-            "name": "scene_mesh_36",
-            "path": "assets\\imported\\scene\\scene_mesh_36.hfmesh",
+            "last_modified": 134121021873460255,
+            "name": "ForestAssetsLibrary_mesh_9",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_9.hfmesh",
             "type": 1,
-            "uuid": 11520113730297380325
-        },
-        {
-            "last_modified": 134098722623246840,
-            "name": "material_041_86",
-            "path": "assets\\imported\\scene\\material_041_86.hfmat",
-            "type": 3,
-            "uuid": 15397662376901670550
-        },
-        {
-            "last_modified": 134098722624249939,
-            "name": "material_041_87",
-            "path": "assets\\imported\\scene\\material_041_87.hfmat",
-            "type": 3,
-            "uuid": 14042896557856780229
-        },
-        {
-            "last_modified": 134098722624445620,
-            "name": "material_041_88",
-            "path": "assets\\imported\\scene\\material_041_88.hfmat",
-            "type": 3,
-            "uuid": 2805748804132614192
-        },
-        {
-            "last_modified": 134098722622983486,
-            "name": "material_041_89",
-            "path": "assets\\imported\\scene\\material_041_89.hfmat",
-            "type": 3,
-            "uuid": 13079259680859816063
-        },
-        {
-            "last_modified": 134098722622124825,
-            "name": "material_041_92",
-            "path": "assets\\imported\\scene\\material_041_92.hfmat",
-            "type": 3,
-            "uuid": 1624178750921132483
-        },
-        {
-            "last_modified": 134098722624645568,
-            "name": "material_041_9",
-            "path": "assets\\imported\\scene\\material_041_9.hfmat",
-            "type": 3,
-            "uuid": 4512258072088374659
-        },
-        {
-            "last_modified": 134098722622843237,
-            "name": "material_041_90",
-            "path": "assets\\imported\\scene\\material_041_90.hfmat",
-            "type": 3,
-            "uuid": 13430100364090920405
+            "uuid": 11178957873290901241
         },
         {
-            "last_modified": 134098722624169353,
-            "name": "material_041_91",
-            "path": "assets\\imported\\scene\\material_041_91.hfmat",
-            "type": 3,
-            "uuid": 8880684670662553894
+            "last_modified": 134121021873490237,
+            "name": "ForestAssetsLibrary_texture_15",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_15.jpg",
+            "type": 2,
+            "uuid": 4327106465473706622
         },
         {
-            "last_modified": 134098722623603347,
-            "name": "scene_mesh_55",
-            "path": "assets\\imported\\scene\\scene_mesh_55.hfmesh",
+            "last_modified": 134121021873605363,
+            "name": "ForestAssetsLibrary_mesh_10",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_10.hfmesh",
             "type": 1,
-            "uuid": 5299395076470479952
+            "uuid": 4292590517516283241
         },
         {
-            "last_modified": 134098722622520890,
-            "name": "material_041_93",
-            "path": "assets\\imported\\scene\\material_041_93.hfmat",
+            "last_modified": 134121021873680541,
+            "name": "RaspberryBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\RaspberryBark.hfmat",
             "type": 3,
-            "uuid": 18025952681635231620
+            "uuid": 7414739924858117829
         },
         {
-            "last_modified": 134098722621365458,
-            "name": "scene_mesh_4",
-            "path": "assets\\imported\\scene\\scene_mesh_4.hfmesh",
+            "last_modified": 134121021873720504,
+            "name": "ForestAssetsLibrary_mesh_11",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_11.hfmesh",
             "type": 1,
-            "uuid": 9391332076153282572
+            "uuid": 16337958280113686700
         },
         {
-            "last_modified": 134098722622681316,
-            "name": "material_041_95",
-            "path": "assets\\imported\\scene\\material_041_95.hfmat",
-            "type": 3,
-            "uuid": 684227346217589450
+            "last_modified": 134121021873795692,
+            "name": "ForestAssetsLibrary_texture_16",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_16.png",
+            "type": 2,
+            "uuid": 4340860249784497015
         },
         {
-            "last_modified": 134098722624605455,
-            "name": "material_041_96",
-            "path": "assets\\imported\\scene\\material_041_96.hfmat",
-            "type": 3,
-            "uuid": 11663904607405464247
+            "last_modified": 134121021873755679,
+            "name": "ForestAssetsLibrary_texture_17",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_17.jpg",
+            "type": 2,
+            "uuid": 8522808842511456760
         },
         {
-            "last_modified": 134098722622124825,
-            "name": "material_041_97",
-            "path": "assets\\imported\\scene\\material_041_97.hfmat",
+            "last_modified": 134121021873805672,
+            "name": "RaspberryBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\RaspberryBranchAtlas.hfmat",
             "type": 3,
-            "uuid": 7747795409698028328
-        },
-        {
-            "last_modified": 134098722622184949,
-            "name": "scene_mesh_18",
-            "path": "assets\\imported\\scene\\scene_mesh_18.hfmesh",
-            "type": 1,
-            "uuid": 6708872314734395501
-        },
-        {
-            "last_modified": 134098722620323162,
-            "name": "scene_mesh_0",
-            "path": "assets\\imported\\scene\\scene_mesh_0.hfmesh",
-            "type": 1,
-            "uuid": 11488651331811856536
-        },
-        {
-            "last_modified": 134098722620383256,
-            "name": "scene_mesh_1",
-            "path": "assets\\imported\\scene\\scene_mesh_1.hfmesh",
-            "type": 1,
-            "uuid": 18343501439960018805
-        },
-        {
-            "last_modified": 134098722621962913,
-            "name": "scene_mesh_10",
-            "path": "assets\\imported\\scene\\scene_mesh_10.hfmesh",
-            "type": 1,
-            "uuid": 7020030129090497669
-        },
-        {
-            "last_modified": 134098722624846477,
-            "name": "scene_mesh_101",
-            "path": "assets\\imported\\scene\\scene_mesh_101.hfmesh",
-            "type": 1,
-            "uuid": 14887080857570662392
-        },
-        {
-            "last_modified": 134098722622481514,
-            "name": "scene_mesh_23",
-            "path": "assets\\imported\\scene\\scene_mesh_23.hfmesh",
-            "type": 1,
-            "uuid": 14889666260163614611
-        },
-        {
-            "last_modified": 134098722624209825,
-            "name": "scene_mesh_77",
-            "path": "assets\\imported\\scene\\scene_mesh_77.hfmesh",
-            "type": 1,
-            "uuid": 15808552949284740492
-        },
-        {
-            "last_modified": 134098722624881573,
-            "name": "scene_mesh_102",
-            "path": "assets\\imported\\scene\\scene_mesh_102.hfmesh",
-            "type": 1,
-            "uuid": 4076858834739110379
-        },
-        {
-            "last_modified": 134098722622003267,
-            "name": "scene_mesh_11",
-            "path": "assets\\imported\\scene\\scene_mesh_11.hfmesh",
-            "type": 1,
-            "uuid": 2178208046095718184
-        },
-        {
-            "last_modified": 134098722622003267,
-            "name": "scene_mesh_12",
-            "path": "assets\\imported\\scene\\scene_mesh_12.hfmesh",
-            "type": 1,
-            "uuid": 15329880024959799771
-        },
-        {
-            "last_modified": 134098722622043383,
-            "name": "scene_mesh_13",
-            "path": "assets\\imported\\scene\\scene_mesh_13.hfmesh",
-            "type": 1,
-            "uuid": 14758597182111889158
-        },
-        {
-            "last_modified": 134098722622043383,
-            "name": "scene_mesh_14",
-            "path": "assets\\imported\\scene\\scene_mesh_14.hfmesh",
-            "type": 1,
-            "uuid": 6608696501568571161
-        },
-        {
-            "last_modified": 134098722622888296,
-            "name": "scene_mesh_34",
-            "path": "assets\\imported\\scene\\scene_mesh_34.hfmesh",
-            "type": 1,
-            "uuid": 5723836470345806779
-        },
-        {
-            "last_modified": 134098722622083385,
-            "name": "scene_mesh_15",
-            "path": "assets\\imported\\scene\\scene_mesh_15.hfmesh",
-            "type": 1,
-            "uuid": 4401029594748225756
-        },
-        {
-            "last_modified": 134098722623442477,
-            "name": "scene_mesh_50",
-            "path": "assets\\imported\\scene\\scene_mesh_50.hfmesh",
-            "type": 1,
-            "uuid": 10432796664861850017
-        },
-        {
-            "last_modified": 134098722622083385,
-            "name": "scene_mesh_16",
-            "path": "assets\\imported\\scene\\scene_mesh_16.hfmesh",
-            "type": 1,
-            "uuid": 2696708236291382351
-        },
-        {
-            "last_modified": 134098722622124825,
-            "name": "scene_mesh_17",
-            "path": "assets\\imported\\scene\\scene_mesh_17.hfmesh",
-            "type": 1,
-            "uuid": 5194092846314975050
-        },
-        {
-            "last_modified": 134098722622205178,
-            "name": "scene_mesh_19",
-            "path": "assets\\imported\\scene\\scene_mesh_19.hfmesh",
-            "type": 1,
-            "uuid": 7353513528733230224
-        },
-        {
-            "last_modified": 134098722620403507,
-            "name": "scene_mesh_2",
-            "path": "assets\\imported\\scene\\scene_mesh_2.hfmesh",
-            "type": 1,
-            "uuid": 10320082229973879350
-        },
-        {
-            "last_modified": 134098722622245249,
-            "name": "scene_mesh_20",
-            "path": "assets\\imported\\scene\\scene_mesh_20.hfmesh",
-            "type": 1,
-            "uuid": 9336253057215327328
-        },
-        {
-            "last_modified": 134098722622385466,
-            "name": "scene_mesh_21",
-            "path": "assets\\imported\\scene\\scene_mesh_21.hfmesh",
-            "type": 1,
-            "uuid": 8461417316886202365
+            "uuid": 8542189710334479442
         },
         {
-            "last_modified": 134098722622405654,
-            "name": "scene_mesh_22",
-            "path": "assets\\imported\\scene\\scene_mesh_22.hfmesh",
+            "last_modified": 134121021873870771,
+            "name": "ForestAssetsLibrary_mesh_12",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_12.hfmesh",
             "type": 1,
-            "uuid": 1805104146399880798
+            "uuid": 6631148529640657119
         },
         {
-            "last_modified": 134098722622520890,
-            "name": "scene_mesh_24",
-            "path": "assets\\imported\\scene\\scene_mesh_24.hfmesh",
-            "type": 1,
-            "uuid": 9942196095327717268
+            "last_modified": 134121021873935889,
+            "name": "ForestAssetsLibrary_texture_18",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_18.jpg",
+            "type": 2,
+            "uuid": 404350288880045537
         },
         {
-            "last_modified": 134098722622520890,
-            "name": "scene_mesh_25",
-            "path": "assets\\imported\\scene\\scene_mesh_25.hfmesh",
-            "type": 1,
-            "uuid": 8440801872522641457
+            "last_modified": 134121021873900777,
+            "name": "ForestAssetsLibrary_texture_19",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_19.jpg",
+            "type": 2,
+            "uuid": 1164186638590162098
         },
         {
-            "last_modified": 134098722622581022,
-            "name": "scene_mesh_26",
-            "path": "assets\\imported\\scene\\scene_mesh_26.hfmesh",
-            "type": 1,
-            "uuid": 6345467527758874562
+            "last_modified": 134121021873935889,
+            "name": "BoulderMossy",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BoulderMossy.hfmat",
+            "type": 3,
+            "uuid": 16732280874436761549
         },
         {
-            "last_modified": 134098722622641310,
-            "name": "scene_mesh_27",
-            "path": "assets\\imported\\scene\\scene_mesh_27.hfmesh",
+            "last_modified": 134121021873995885,
+            "name": "ForestAssetsLibrary_mesh_13",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_13.hfmesh",
             "type": 1,
-            "uuid": 4128173145315512007
+            "uuid": 17423293817428504410
         },
         {
-            "last_modified": 134098722622641310,
-            "name": "scene_mesh_28",
-            "path": "assets\\imported\\scene\\scene_mesh_28.hfmesh",
-            "type": 1,
-            "uuid": 755363461938247928
+            "last_modified": 134121021874070997,
+            "name": "ForestAssetsLibrary_texture_28",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_28.png",
+            "type": 2,
+            "uuid": 2833979734652596958
         },
         {
-            "last_modified": 134098722622681316,
-            "name": "scene_mesh_29",
-            "path": "assets\\imported\\scene\\scene_mesh_29.hfmesh",
-            "type": 1,
-            "uuid": 12619509687400886613
+            "last_modified": 134121021875636254,
+            "name": "ForestAssetsLibrary_texture_29",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_29.jpg",
+            "type": 2,
+            "uuid": 17941650904740053081
         },
         {
-            "last_modified": 134098722621288992,
-            "name": "scene_mesh_3",
-            "path": "assets\\imported\\scene\\scene_mesh_3.hfmesh",
-            "type": 1,
-            "uuid": 13141522422649224075
+            "last_modified": 134121021874070997,
+            "name": "BirchBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BirchBranchAtlas.hfmat",
+            "type": 3,
+            "uuid": 9703112025791956994
         },
         {
-            "last_modified": 134098722622722821,
-            "name": "scene_mesh_30",
-            "path": "assets\\imported\\scene\\scene_mesh_30.hfmesh",
+            "last_modified": 134121021874131195,
+            "name": "ForestAssetsLibrary_mesh_14",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_14.hfmesh",
             "type": 1,
-            "uuid": 5576396372999418543
+            "uuid": 7250226324712377749
         },
         {
-            "last_modified": 134098722623083909,
-            "name": "scene_mesh_41",
-            "path": "assets\\imported\\scene\\scene_mesh_41.hfmesh",
-            "type": 1,
-            "uuid": 2376914293292589223
+            "last_modified": 134121021874191198,
+            "name": "ForestAssetsLibrary_texture_26",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_26.jpg",
+            "type": 2,
+            "uuid": 16040211924596333088
         },
         {
-            "last_modified": 134098722622762882,
-            "name": "scene_mesh_31",
-            "path": "assets\\imported\\scene\\scene_mesh_31.hfmesh",
-            "type": 1,
-            "uuid": 14279676595197245994
+            "last_modified": 134121021874161187,
+            "name": "ForestAssetsLibrary_texture_27",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_27.jpg",
+            "type": 2,
+            "uuid": 17352981401247836271
         },
         {
-            "last_modified": 134098722622843237,
-            "name": "scene_mesh_33",
-            "path": "assets\\imported\\scene\\scene_mesh_33.hfmesh",
+            "last_modified": 134121021874266324,
+            "name": "ForestAssetsLibrary_mesh_15",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_15.hfmesh",
             "type": 1,
-            "uuid": 1291493198127572540
+            "uuid": 7598716409843888952
         },
         {
-            "last_modified": 134098722622923362,
-            "name": "scene_mesh_35",
-            "path": "assets\\imported\\scene\\scene_mesh_35.hfmesh",
-            "type": 1,
-            "uuid": 5397155382307786470
+            "last_modified": 134121021874321442,
+            "name": "ForestAssetsLibrary_texture_20",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_20.jpg",
+            "type": 2,
+            "uuid": 12429402397800901970
         },
         {
-            "last_modified": 134098722622963430,
-            "name": "scene_mesh_37",
-            "path": "assets\\imported\\scene\\scene_mesh_37.hfmesh",
-            "type": 1,
-            "uuid": 5058177657780576392
+            "last_modified": 134121021874286312,
+            "name": "ForestAssetsLibrary_texture_21",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_21.jpg",
+            "type": 2,
+            "uuid": 5243215459062774273
         },
         {
-            "last_modified": 134098722623043905,
-            "name": "scene_mesh_40",
-            "path": "assets\\imported\\scene\\scene_mesh_40.hfmesh",
+            "last_modified": 134121021874341505,
+            "name": "ForestAssetsLibrary_mesh_16",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_16.hfmesh",
             "type": 1,
-            "uuid": 3235931131138221346
+            "uuid": 9251306025704434475
         },
         {
-            "last_modified": 134098722623126430,
-            "name": "scene_mesh_42",
-            "path": "assets\\imported\\scene\\scene_mesh_42.hfmesh",
-            "type": 1,
-            "uuid": 6815425008592660340
+            "last_modified": 134121021875937473,
+            "name": "ForestAssetsLibrary_texture_32",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_32.jpg",
+            "type": 2,
+            "uuid": 4670661644777052069
         },
         {
-            "last_modified": 134098722623181499,
-            "name": "scene_mesh_43",
-            "path": "assets\\imported\\scene\\scene_mesh_43.hfmesh",
-            "type": 1,
-            "uuid": 5331265475901988241
+            "last_modified": 134121021874421507,
+            "name": "ForestAssetsLibrary_texture_35",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_35.png",
+            "type": 2,
+            "uuid": 11974268593659085584
         },
         {
-            "last_modified": 134098722623206722,
-            "name": "scene_mesh_44",
-            "path": "assets\\imported\\scene\\scene_mesh_44.hfmesh",
-            "type": 1,
-            "uuid": 17142311823488779198
+            "last_modified": 134121021874371507,
+            "name": "ForestAssetsLibrary_texture_36",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_36.jpg",
+            "type": 2,
+            "uuid": 2832863020499879665
         },
         {
-            "last_modified": 134098722623322011,
-            "name": "scene_mesh_46",
-            "path": "assets\\imported\\scene\\scene_mesh_46.hfmesh",
-            "type": 1,
-            "uuid": 6209481970480270400
+            "last_modified": 134121021874421507,
+            "name": "OakBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\OakBranchAtlas.hfmat",
+            "type": 3,
+            "uuid": 10966596869959407455
         },
         {
-            "last_modified": 134098722623382105,
-            "name": "scene_mesh_47",
-            "path": "assets\\imported\\scene\\scene_mesh_47.hfmesh",
+            "last_modified": 134121021874443781,
+            "name": "ForestAssetsLibrary_mesh_17",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_17.hfmesh",
             "type": 1,
-            "uuid": 17302117835981760989
+            "uuid": 12681489761235717206
         },
         {
-            "last_modified": 134098722623402368,
-            "name": "scene_mesh_48",
-            "path": "assets\\imported\\scene\\scene_mesh_48.hfmesh",
+            "last_modified": 134121021874538911,
+            "name": "ForestAssetsLibrary_mesh_18",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_18.hfmesh",
             "type": 1,
-            "uuid": 7225521243115497850
+            "uuid": 15912960752086569585
         },
         {
-            "last_modified": 134098722623402368,
-            "name": "scene_mesh_49",
-            "path": "assets\\imported\\scene\\scene_mesh_49.hfmesh",
-            "type": 1,
-            "uuid": 7270218556232844287
+            "last_modified": 134121021875425904,
+            "name": "ForestAssetsLibrary_texture_22",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_22.jpg",
+            "type": 2,
+            "uuid": 1210477201021351628
         },
         {
-            "last_modified": 134098722623522664,
-            "name": "scene_mesh_52",
-            "path": "assets\\imported\\scene\\scene_mesh_52.hfmesh",
-            "type": 1,
-            "uuid": 18192745364842830519
+            "last_modified": 134121021875380852,
+            "name": "ForestAssetsLibrary_texture_23",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_23.jpg",
+            "type": 2,
+            "uuid": 379711480409093275
         },
         {
-            "last_modified": 134098722623562762,
-            "name": "scene_mesh_53",
-            "path": "assets\\imported\\scene\\scene_mesh_53.hfmesh",
+            "last_modified": 134121021874633585,
+            "name": "ForestAssetsLibrary_mesh_19",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_19.hfmesh",
             "type": 1,
-            "uuid": 5714123290909389042
+            "uuid": 4818077437402742740
         },
         {
-            "last_modified": 134098722621687014,
-            "name": "scene_mesh_6",
-            "path": "assets\\imported\\scene\\scene_mesh_6.hfmesh",
-            "type": 1,
-            "uuid": 2866766140663742394
+            "last_modified": 134121021874663619,
+            "name": "ForestAssetsLibrary_texture_34",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_34.jpg",
+            "type": 2,
+            "uuid": 926467075282636939
         },
         {
-            "last_modified": 134098722623723641,
-            "name": "scene_mesh_60",
-            "path": "assets\\imported\\scene\\scene_mesh_60.hfmesh",
-            "type": 1,
-            "uuid": 1295559041567702716
+            "last_modified": 134121021874718636,
+            "name": "ForestAssetsLibrary_texture_33",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_33.png",
+            "type": 2,
+            "uuid": 14081728057107308770
         },
         {
-            "last_modified": 134098722623763744,
-            "name": "scene_mesh_61",
-            "path": "assets\\imported\\scene\\scene_mesh_61.hfmesh",
-            "type": 1,
-            "uuid": 9876654658565134329
+            "last_modified": 134121021874718636,
+            "name": "MapleBranchAtlas",
+            "path": "assets\\imported\\ForestAssetsLibrary\\MapleBranchAtlas.hfmat",
+            "type": 3,
+            "uuid": 4893195129966665443
         },
         {
-            "last_modified": 134098722623804071,
-            "name": "scene_mesh_63",
-            "path": "assets\\imported\\scene\\scene_mesh_63.hfmesh",
+            "last_modified": 134121021874748695,
+            "name": "ForestAssetsLibrary_mesh_20",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_20.hfmesh",
             "type": 1,
-            "uuid": 5580462216439548719
+            "uuid": 16550909491909037156
         },
         {
-            "last_modified": 134098722623884187,
-            "name": "scene_mesh_64",
-            "path": "assets\\imported\\scene\\scene_mesh_64.hfmesh",
-            "type": 1,
-            "uuid": 5062243501220706568
+            "last_modified": 134121021874808691,
+            "name": "ForestAssetsLibrary_texture_31",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_31.jpg",
+            "type": 2,
+            "uuid": 16778999239149869648
         },
         {
-            "last_modified": 134098722624405514,
-            "name": "scene_mesh_85",
-            "path": "assets\\imported\\scene\\scene_mesh_85.hfmesh",
-            "type": 1,
-            "uuid": 18196811208282960695
+            "last_modified": 134121021874808691,
+            "name": "MapleBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\MapleBark.hfmat",
+            "type": 3,
+            "uuid": 8948048147017696054
         },
         {
-            "last_modified": 134098722623889299,
-            "name": "scene_mesh_65",
-            "path": "assets\\imported\\scene\\scene_mesh_65.hfmesh",
+            "last_modified": 134121021874818692,
+            "name": "ForestAssetsLibrary_mesh_21",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_21.hfmesh",
             "type": 1,
-            "uuid": 11524179573737510501
+            "uuid": 2175940082709468609
         },
         {
-            "last_modified": 134098722623964511,
-            "name": "scene_mesh_68",
-            "path": "assets\\imported\\scene\\scene_mesh_68.hfmesh",
-            "type": 1,
-            "uuid": 11521139084896386276
+            "last_modified": 134121021874890119,
+            "name": "BarkMat.002",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BarkMat.002.hfmat",
+            "type": 3,
+            "uuid": 4319326617404980961
         },
         {
-            "last_modified": 134098722624004806,
-            "name": "scene_mesh_69",
-            "path": "assets\\imported\\scene\\scene_mesh_69.hfmesh",
+            "last_modified": 134121021874900115,
+            "name": "ForestAssetsLibrary_mesh_22",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_22.hfmesh",
             "type": 1,
-            "uuid": 15592913749406369345
+            "uuid": 15926930835096490898
         },
         {
-            "last_modified": 134098722621802541,
-            "name": "scene_mesh_7",
-            "path": "assets\\imported\\scene\\scene_mesh_7.hfmesh",
-            "type": 1,
-            "uuid": 16121262870503855423
+            "last_modified": 134121021875571080,
+            "name": "ForestAssetsLibrary_texture_24",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_24.png",
+            "type": 2,
+            "uuid": 11732864105527342258
         },
         {
-            "last_modified": 134098722624004806,
-            "name": "scene_mesh_70",
-            "path": "assets\\imported\\scene\\scene_mesh_70.hfmesh",
-            "type": 1,
-            "uuid": 1111999222071130379
+            "last_modified": 134121021875085455,
+            "name": "BarkMat.001",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BarkMat.001.hfmat",
+            "type": 3,
+            "uuid": 12584595852339846352
         },
         {
-            "last_modified": 134098722624044922,
-            "name": "scene_mesh_71",
-            "path": "assets\\imported\\scene\\scene_mesh_71.hfmesh",
-            "type": 1,
-            "uuid": 16737303103105337270
+            "last_modified": 134121021875521022,
+            "name": "ForestAssetsLibrary_texture_25",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_25.jpg",
+            "type": 2,
+            "uuid": 6836130853553234357
         },
         {
-            "last_modified": 134098722624084922,
-            "name": "scene_mesh_72",
-            "path": "assets\\imported\\scene\\scene_mesh_72.hfmesh",
-            "type": 1,
-            "uuid": 6313978239381925109
+            "last_modified": 134121021874995245,
+            "name": "BranchMat.002",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BranchMat.002.hfmat",
+            "type": 3,
+            "uuid": 6130449751277709351
         },
         {
-            "last_modified": 134098722624084922,
-            "name": "scene_mesh_73",
-            "path": "assets\\imported\\scene\\scene_mesh_73.hfmesh",
+            "last_modified": 134121021875020279,
+            "name": "ForestAssetsLibrary_mesh_23",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_23.hfmesh",
             "type": 1,
-            "uuid": 17905872204943314456
+            "uuid": 17318141715822498391
         },
         {
-            "last_modified": 134098722624249939,
-            "name": "scene_mesh_78",
-            "path": "assets\\imported\\scene\\scene_mesh_78.hfmesh",
+            "last_modified": 134121021875130630,
+            "name": "ForestAssetsLibrary_mesh_24",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_24.hfmesh",
             "type": 1,
-            "uuid": 9619783498304446643
+            "uuid": 4285751955365285360
         },
         {
-            "last_modified": 134098722624249939,
-            "name": "scene_mesh_79",
-            "path": "assets\\imported\\scene\\scene_mesh_79.hfmesh",
-            "type": 1,
-            "uuid": 2135119328459121534
+            "last_modified": 134121021875225698,
+            "name": "BranchMat.001",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BranchMat.001.hfmat",
+            "type": 3,
+            "uuid": 17522390130251317178
         },
         {
-            "last_modified": 134098722624285037,
-            "name": "scene_mesh_80",
-            "path": "assets\\imported\\scene\\scene_mesh_80.hfmesh",
-            "type": 1,
-            "uuid": 5742920155832524814
+            "last_modified": 134121021875425904,
+            "name": "BarkMat",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BarkMat.hfmat",
+            "type": 3,
+            "uuid": 9672160042844673829
         },
         {
-            "last_modified": 134098722624285037,
-            "name": "scene_mesh_81",
-            "path": "assets\\imported\\scene\\scene_mesh_81.hfmesh",
+            "last_modified": 134121021875485951,
+            "name": "ForestAssetsLibrary_mesh_26",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_26.hfmesh",
             "type": 1,
-            "uuid": 2174052984694362883
+            "uuid": 4864250663372062510
         },
         {
-            "last_modified": 134098722624325158,
-            "name": "scene_mesh_82",
-            "path": "assets\\imported\\scene\\scene_mesh_82.hfmesh",
-            "type": 1,
-            "uuid": 5303460919910610128
+            "last_modified": 134121021875571080,
+            "name": "BranchMat",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BranchMat.hfmat",
+            "type": 3,
+            "uuid": 7837504613827836875
         },
         {
-            "last_modified": 134098722624385243,
-            "name": "scene_mesh_83",
-            "path": "assets\\imported\\scene\\scene_mesh_83.hfmesh",
+            "last_modified": 134121021875591079,
+            "name": "ForestAssetsLibrary_mesh_27",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_27.hfmesh",
             "type": 1,
-            "uuid": 15111458129968572333
+            "uuid": 164754487308478755
         },
         {
-            "last_modified": 134098722624405514,
-            "name": "scene_mesh_84",
-            "path": "assets\\imported\\scene\\scene_mesh_84.hfmesh",
-            "type": 1,
-            "uuid": 5718189134349519218
+            "last_modified": 134121021875676273,
+            "name": "ForestAssetsLibrary_texture_30",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_30.png",
+            "type": 2,
+            "uuid": 1106557175329876719
         },
         {
-            "last_modified": 134098722624445620,
-            "name": "scene_mesh_87",
-            "path": "assets\\imported\\scene\\scene_mesh_87.hfmesh",
-            "type": 1,
-            "uuid": 10436862508301980193
+            "last_modified": 134121021875686256,
+            "name": "BirchBranchAtlasAlt",
+            "path": "assets\\imported\\ForestAssetsLibrary\\BirchBranchAtlasAlt.hfmat",
+            "type": 3,
+            "uuid": 5266839071002054121
         },
         {
-            "last_modified": 134098722624485623,
-            "name": "scene_mesh_88",
-            "path": "assets\\imported\\scene\\scene_mesh_88.hfmesh",
+            "last_modified": 134121021875706299,
+            "name": "ForestAssetsLibrary_mesh_28",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_28.hfmesh",
             "type": 1,
-            "uuid": 6479559222735751238
+            "uuid": 6325329448580353596
         },
         {
-            "last_modified": 134098722624485623,
-            "name": "scene_mesh_89",
-            "path": "assets\\imported\\scene\\scene_mesh_89.hfmesh",
-            "type": 1,
-            "uuid": 12037499605245028635
+            "last_modified": 134121021875967511,
+            "name": "ForestAssetsLibrary_texture_37",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_texture_37.jpg",
+            "type": 2,
+            "uuid": 16151617947727928258
         },
         {
-            "last_modified": 134098722621887702,
-            "name": "scene_mesh_9",
-            "path": "assets\\imported\\scene\\scene_mesh_9.hfmesh",
+            "last_modified": 134121021875801450,
+            "name": "ForestAssetsLibrary_mesh_29",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_29.hfmesh",
             "type": 1,
-            "uuid": 1114930599784252445
+            "uuid": 14906425065577785209
         },
         {
-            "last_modified": 134098722624529728,
-            "name": "scene_mesh_90",
-            "path": "assets\\imported\\scene\\scene_mesh_90.hfmesh",
-            "type": 1,
-            "uuid": 8465483160326332541
+            "last_modified": 134121021875872392,
+            "name": "CommonBark",
+            "path": "assets\\imported\\ForestAssetsLibrary\\CommonBark.hfmat",
+            "type": 3,
+            "uuid": 10290273849644331552
         },
         {
-            "last_modified": 134098722624564827,
-            "name": "scene_mesh_92",
-            "path": "assets\\imported\\scene\\scene_mesh_92.hfmesh",
+            "last_modified": 134121021875892398,
+            "name": "ForestAssetsLibrary_mesh_30",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary_mesh_30.hfmesh",
             "type": 1,
-            "uuid": 14893732103603744787
+            "uuid": 14649553905317097523
         },
         {
-            "last_modified": 134098722624585153,
-            "name": "scene_mesh_93",
-            "path": "assets\\imported\\scene\\scene_mesh_93.hfmesh",
-            "type": 1,
-            "uuid": 1809169989840010974
+            "last_modified": 134121021876202907,
+            "name": "ForestAssetsLibrary",
+            "path": "assets\\imported\\ForestAssetsLibrary\\ForestAssetsLibrary.hfmodel",
+            "type": 0,
+            "uuid": 13681846372301740465
         },
         {
-            "last_modified": 134098722624645568,
-            "name": "scene_mesh_95",
-            "path": "assets\\imported\\scene\\scene_mesh_95.hfmesh",
+            "last_modified": 134121022193697316,
+            "name": "minecraft_castle_mesh_0",
+            "path": "assets\\imported\\minecraft_castle\\minecraft_castle_mesh_0.hfmesh",
             "type": 1,
-            "uuid": 9946261938767847444
+            "uuid": 5000817653991374432
         },
         {
-            "last_modified": 134098722624690678,
-            "name": "scene_mesh_96",
-            "path": "assets\\imported\\scene\\scene_mesh_96.hfmesh",
-            "type": 1,
-            "uuid": 4132238988755642183
+            "last_modified": 134121022193962965,
+            "name": "minecraft_castle_texture_0",
+            "path": "assets\\imported\\minecraft_castle\\minecraft_castle_texture_0.jpg",
+            "type": 2,
+            "uuid": 7359081467812591590
         },
         {
-            "last_modified": 134098722624806370,
-            "name": "scene_mesh_98",
-            "path": "assets\\imported\\scene\\scene_mesh_98.hfmesh",
-            "type": 1,
-            "uuid": 12623575530841016789
+            "last_modified": 134121022193962965,
+            "name": "defaultMat",
+            "path": "assets\\imported\\minecraft_castle\\defaultMat.hfmat",
+            "type": 3,
+            "uuid": 10790153994161166903
         },
         {
-            "last_modified": 134098722624806370,
-            "name": "scene_mesh_99",
-            "path": "assets\\imported\\scene\\scene_mesh_99.hfmesh",
-            "type": 1,
-            "uuid": 759429305378378104
+            "last_modified": 134121022194600093,
+            "name": "minecraft_castle",
+            "path": "assets\\imported\\minecraft_castle\\minecraft_castle.hfmodel",
+            "type": 0,
+            "uuid": 11342974245242824885
         }
     ],
     "version": "1.0"
